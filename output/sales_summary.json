@@ -1,0 +1,51 @@
+{
+    "rows_before_cleaning": 895,
+    "rows_after_cleaning": 870,
+    "exact_duplicate_rows_removed": 25,
+    "rows_removed": 25,
+    "missing_values_before": {
+        "order_id": 0,
+        "order_date": 32,
+        "customer": 38,
+        "city": 41,
+        "category": 33,
+        "product": 29,
+        "quantity": 34,
+        "unit_price": 47,
+        "status": 36
+    },
+    "missing_values_after": {
+        "order_id": 0,
+        "order_date": 49,
+        "customer": 37,
+        "city": 39,
+        "category": 32,
+        "product": 29,
+        "quantity": 41,
+        "unit_price": 70,
+        "status": 36
+    },
+    "duplicate_rows_before": 25,
+    "duplicate_rows_after": 0,
+    "unique_orders": 850,
+    "repeated_order_ids": 20,
+    "records_with_valid_revenue_data": 762,
+    "completed_records_with_valid_revenue_data": 186,
+    "total_sales_all_statuses": 298525.63,
+    "total_sales_completed_only": 62265.55,
+    "total_quantity_all_statuses": 4846,
+    "average_unit_price": 69.04,
+    "unique_customers": 158,
+    "records_by_category": {
+        "Home": 305,
+        "Electronics": 271,
+        "Office Supplies": 262
+    },
+    "records_by_status": {
+        "Returned": 210,
+        "Cancelled": 209,
+        "Completed": 209,
+        "Pending": 199,
+        "In Progress": 7
+    }
+}

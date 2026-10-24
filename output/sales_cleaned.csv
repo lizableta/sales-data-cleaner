@@ -1,0 +1,871 @@
+order_id,order_date,customer,city,category,product,quantity,unit_price,status
+ORD-1408,2026-09-28,Zana Kelmendi,Ferizaj,Electronics,Keyboard,4,0.0,Cancelled
+ORD-1071,2026-09-28,Fisnik Berisha,Prizren,Electronics,Mouse,1,20.98,Returned
+ORD-1841,2026-09-25,Besa Morina,Peja,Home,Chair,3,144.01,Returned
+ORD-1551,2026-09-15,Kaltrina Kastrati,Prizren,Home,Chair,10,103.24,Completed
+ORD-1029,2026-09-18,Besa Hoxha,Mitrovica,Office Supplies,Pen,7,1.85,Completed
+ORD-1129,2026-09-20,Agon Shala,Gjakova,,,,88.09,
+ORD-1050,2026-09-01,Ilir Shala,Prishtina,Home,Desk Lamp,10,28.4,Returned
+ORD-1287,2026-09-10,Elira Krasniqi,Gjakova,Home,Chair,3,191.89,Pending
+ORD-1609,2026-09-10,Nderim Krasniqi,Ferizaj,Home,Chair,4,187.52,Returned
+ORD-1480,2026-09-03,Ilir Bytyqi,Prizren,Electronics,Mouse,7,18.62,Cancelled
+ORD-1676,2026-09-20,Blerta Kelmendi,Ferizaj,Home,Chair,10,209.43,Returned
+ORD-1663,2026-09-28,Elira Krasniqi,Prishtina,Electronics,Keyboard,3,44.44,Returned
+ORD-1054,2026-09-28,Nderim Bytyqi,Mitrovica,Office Supplies,Notebook,10,4.86,Returned
+ORD-1037,2026-09-28,Majlinda Kastrati,Ferizaj,Office Supplies,Pen,9,1.63,Completed
+ORD-1602,2026-09-20,Pranvera Krasniqi,Prizren,Home,Chair,3,,Pending
+ORD-1036,2026-09-10,Luan Hoxha,Peja,Home,Desk Lamp,4,19.98,Completed
+ORD-1678,2026-09-15,Zana Morina,Prishtina,Home,Desk Lamp,4,37.91,Cancelled
+ORD-1051,2026-09-30,Nderim Kastrati,Peja,Home,Desk Lamp,2,27.83,Completed
+ORD-1370,2026-08-15,Kaltrina Bytyqi,Peja,Office Supplies,Notebook,20,4.1,Cancelled
+ORD-1444,2026-09-20,,,Office Supplies,Pen,8,4.4,
+ORD-1166,2026-09-03,Nderim Rama,Prizren,Home,Chair,,173.76,Returned
+ORD-1367,,Zana Rama,Peja,Home,Chair,4,107.55,Completed
+ORD-1737,2026-08-15,Luan Hoxha,Prishtina,Office Supplies,Pen,6,4.08,Cancelled
+ORD-1571,2026-09-20,Blerta Gashi,Prizren,Office Supplies,Notebook,3,3.3,Returned
+ORD-1785,2026-09-30,Elira Hoxha,Peja,Office Supplies,Notebook,2,4.09,Completed
+ORD-1110,2026-09-10,Ilir Berisha,Gjakova,Office Supplies,Pen,6,2.82,Returned
+ORD-1537,2026-09-22,Fisnik Krasniqi,Prishtina,Home,Desk Lamp,7,24.2,Pending
+ORD-1816,2026-09-30,Agon Bytyqi,Peja,Office Supplies,Notebook,,3.14,Cancelled
+ORD-1362,2026-09-30,Luan Hoxha,Peja,Electronics,Mouse,6,29.89,Pending
+ORD-1616,2026-09-25,Valon Berisha,Prizren,Home,Desk Lamp,4,,Pending
+ORD-1087,2026-09-20,Elira Gashi,Gjakova,Electronics,Monitor,8,319.75,Cancelled
+ORD-1160,2026-09-25,Dardan Rama,Gjakova,Office Supplies,Notebook,8,4.9,Returned
+ORD-1650,2026-09-30,Zana Morina,Peja,Office Supplies,Notebook,6,,Returned
+ORD-1488,2026-09-10,Fisnik Gashi,Ferizaj,Electronics,Monitor,7,144.49,Completed
+ORD-1772,2026-09-18,,Prizren,Office Supplies,Notebook,7,3.86,
+ORD-1735,2026-09-28,Dardan Kastrati,Prizren,Home,,,37.12,Returned
+ORD-1081,2026-09-10,Arben Gashi,Prishtina,Home,Desk Lamp,8,36.65,
+ORD-1783,2026-09-20,Blerta Kelmendi,Gjakova,Electronics,Mouse,8,26.18,Completed
+ORD-1108,2026-09-12,Nderim Kelmendi,Peja,Electronics,Keyboard,7,71.36,Completed
+ORD-1481,2026-09-20,Elira Bytyqi,Mitrovica,Office Supplies,Notebook,10,7.6,Pending
+ORD-1060,2026-09-20,Arben Hoxha,Ferizaj,Office Supplies,Pen,9,4.32,Returned
+ORD-1462,2026-09-12,Luan Berisha,Mitrovica,Electronics,Monitor,2,137.26,Cancelled
+ORD-1246,2026-09-01,Valon Bytyqi,,Office Supplies,,1,7.64,Cancelled
+ORD-1781,2026-09-28,Fisnik Rama,Prizren,Home,Desk Lamp,4,33.14,Completed
+ORD-1834,2026-09-01,Blerta Berisha,Ferizaj,Office Supplies,Notebook,8,3.17,Pending
+ORD-1718,2026-09-28,Dardan Berisha,Mitrovica,Home,Chair,2,142.42,Completed
+ORD-1376,2026-09-15,Nderim Morina,Ferizaj,Home,Desk Lamp,5,,Cancelled
+ORD-1327,2026-09-12,Genta Kelmendi,,Office Supplies,Pen,9,1.74,Returned
+ORD-1807,2026-09-01,Zana Hoxha,Mitrovica,Office Supplies,Pen,5,1.5,Pending
+ORD-1026,2026-09-22,Elira Berisha,Prizren,,Desk Lamp,6,,Pending
+ORD-1199,2026-09-05,Majlinda Shala,Mitrovica,Office Supplies,Pen,29,,Cancelled
+ORD-1457,2026-09-28,Majlinda Morina,Ferizaj,Home,Desk Lamp,1,23.55,Completed
+ORD-1330,2026-09-12,Agon Berisha,Peja,Home,Chair,2,145.86,Completed
+ORD-1760,2026-09-20,Elira Kastrati,Peja,Home,Desk Lamp,,23.18,Pending
+ORD-1766,2026-09-25,Valon Berisha,Prishtina,Electronics,Monitor,4,214.9,Returned
+ORD-1754,2026-08-15,Dardan Krasniqi,Peja,Electronics,Mouse,,32.79,Pending
+ORD-1122,2026-09-01,Pranvera Kastrati,Peja,Office Supplies,Notebook,10,3.8,Cancelled
+ORD-1015,2026-08-15,Agon Krasniqi,Ferizaj,Home,Chair,9,151.72,Cancelled
+ORD-1309,2026-09-28,Ilir Kastrati,Gjakova,Office Supplies,Pen,10,1.46,Pending
+ORD-1647,2026-09-10,Nderim Bytyqi,Gjakova,Electronics,Monitor,5,155.13,Pending
+ORD-1350,2026-10-02,Fisnik Morina,Gjakova,Home,Desk Lamp,4,29.88,Returned
+ORD-1502,2026-09-28,Arben Bytyqi,Prishtina,Home,Chair,9,149.57,Cancelled
+ORD-1583,2026-09-01,Fisnik Hoxha,Gjakova,Electronics,Mouse,8,37.13,Pending
+ORD-1706,2026-08-15,,Prizren,Home,Chair,1,122.47,
+ORD-1698,2026-09-05,Arben Bytyqi,Prizren,Home,Chair,5,89.1,Pending
+ORD-1391,2026-09-12,,Prizren,Office Supplies,Pen,4,4.07,Pending
+ORD-1296,2026-08-15,Valon Rama,Prishtina,Electronics,Keyboard,10,61.31,Cancelled
+ORD-1250,2026-09-05,Nderim Krasniqi,Mitrovica,Home,Chair,9,194.91,Completed
+ORD-1352,2026-08-15,Luan Krasniqi,Prizren,Office Supplies,Pen,4,4.16,Cancelled
+ORD-1696,2026-09-15,Arben Kastrati,Peja,Electronics,Keyboard,10,48.52,Cancelled
+ORD-1355,2026-10-02,Pranvera Rama,Prizren,Home,Desk Lamp,1,,Returned
+ORD-1191,2026-09-30,Besa Morina,Peja,Home,Desk Lamp,8,28.54,Cancelled
+ORD-1370,2026-08-15,Kaltrina Bytyqi,Peja,Office Supplies,Notebook,5,4.1,Returned
+ORD-1319,2026-09-22,Elira Hoxha,Ferizaj,Home,Desk Lamp,6,18.61,In Progress
+ORD-1165,2026-09-20,Fisnik Krasniqi,Prizren,,Mouse,3,22.68,Returned
+ORD-1411,2026-08-15,Dardan Bytyqi,,Electronics,Mouse,5,,Cancelled
+ORD-1540,2026-09-18,Blerta Morina,Peja,Electronics,Monitor,4,241.86,Completed
+ORD-1800,2026-09-12,Pranvera Morina,Peja,Office Supplies,Pen,7,1.59,Completed
+ORD-1805,2026-10-02,Majlinda Kelmendi,Mitrovica,Home,Desk Lamp,7,23.38,Completed
+ORD-1630,2026-09-25,Fisnik Rama,Prishtina,Office Supplies,Pen,,4.15,Returned
+ORD-1318,2026-08-15,Nderim Krasniqi,Peja,,Notebook,8,4.91,Completed
+ORD-1719,2026-09-25,Agon Bytyqi,Mitrovica,Home,Chair,6,163.89,Returned
+ORD-1180,2026-09-22,Arben Bytyqi,Peja,Office Supplies,Notebook,10,4.52,Returned
+ORD-1693,2026-09-12,Ilir Kelmendi,Peja,Electronics,Monitor,2,248.71,Cancelled
+ORD-1541,2026-09-12,Dardan Shala,Gjakova,Electronics,Keyboard,4,53.63,Returned
+ORD-1823,2026-09-30,Elira Kastrati,,Home,,2,31.63,Pending
+ORD-1508,2026-09-12,Besa Krasniqi,Peja,Electronics,Monitor,2,285.67,Completed
+ORD-1186,2026-09-01,Arben Kastrati,Prishtina,Office Supplies,Notebook,8,6.67,Completed
+ORD-1746,2026-09-28,Elira Rama,Mitrovica,Home,Desk Lamp,7,26.07,Completed
+ORD-1812,2026-10-02,Elira Kastrati,Prizren,Home,Desk Lamp,3,31.87,Cancelled
+ORD-1070,2026-08-15,Kaltrina Krasniqi,Ferizaj,Electronics,Monitor,6,244.07,Completed
+ORD-1161,2026-10-02,Agon Rama,Prizren,Office Supplies,Pen,7,0.0,Returned
+ORD-1361,2026-09-30,Elira Gashi,Ferizaj,Office Supplies,Notebook,3,4.2,Pending
+ORD-1677,2026-09-20,Ilir Gashi,Prishtina,Electronics,Monitor,5,173.53,Completed
+ORD-1098,2026-08-15,Agon Shala,Gjakova,Electronics,Monitor,10,312.27,Completed
+ORD-1560,2026-09-25,Blerta Rama,Peja,Home,Chair,3,86.02,Pending
+ORD-1645,2026-09-05,Agon Kelmendi,Peja,Electronics,Monitor,7,179.27,Pending
+ORD-1204,2026-09-15,Fisnik Kelmendi,Peja,Office Supplies,Pen,10,4.05,Returned
+ORD-1014,2026-09-18,Zana Kastrati,,Electronics,Mouse,3,,Returned
+ORD-1001,2026-09-28,Kaltrina Berisha,Prizren,Home,Desk Lamp,16,18.68,Cancelled
+ORD-1222,,Ilir Hoxha,Mitrovica,Electronics,Keyboard,6,81.03,Returned
+ORD-1055,2026-09-03,,Gjakova,Electronics,Monitor,3,228.83,Cancelled
+ORD-1561,2026-10-02,Blerta Berisha,Prizren,Office Supplies,Notebook,4,7.71,Pending
+ORD-1538,2026-08-15,Elira Hoxha,Mitrovica,Home,Chair,10,194.84,Completed
+ORD-1818,2026-09-05,Kaltrina Shala,Prizren,Home,Desk Lamp,3,24.0,Pending
+ORD-1109,2026-09-15,Blerta Hoxha,Mitrovica,Home,Chair,10,196.43,Returned
+ORD-1223,2026-09-01,Arben Berisha,Prizren,Office Supplies,Pen,7,,Cancelled
+ORD-1044,2026-09-18,Fisnik Berisha,Prizren,Electronics,Keyboard,7,71.81,
+ORD-1353,2026-09-30,Ilir Kelmendi,Gjakova,Home,Desk Lamp,5,40.89,Pending
+ORD-1734,2026-09-25,Dardan Gashi,Gjakova,Office Supplies,Pen,1,1.77,Pending
+ORD-1067,2026-09-03,,Gjakova,Electronics,Keyboard,10,80.17,Completed
+ORD-1227,2026-09-15,Elira Hoxha,Prishtina,Home,Chair,10,194.67,Returned
+ORD-1392,2026-09-10,Valon Rama,Prizren,Home,Desk Lamp,4,38.63,Pending
+ORD-1794,2026-09-28,Nderim Hoxha,Prishtina,Office Supplies,Pen,8,4.07,Cancelled
+ORD-1091,2026-08-15,Besa Kastrati,Ferizaj,Office Supplies,Pen,10,2.22,Completed
+ORD-1333,2026-09-15,Majlinda Gashi,Mitrovica,Electronics,Monitor,4,310.92,Cancelled
+ORD-1302,2026-09-28,,Prizren,Office Supplies,Notebook,7,4.11,Pending
+ORD-1775,2026-09-05,Agon Bytyqi,Ferizaj,Electronics,Keyboard,2,42.75,Cancelled
+ORD-1261,2026-09-18,Dardan Bytyqi,Prishtina,Office Supplies,Notebook,1,5.48,Cancelled
+ORD-1817,2026-09-01,Nderim Hoxha,Ferizaj,Office Supplies,Notebook,10,6.99,Cancelled
+ORD-1671,2026-09-20,Genta Shala,Gjakova,Electronics,Mouse,3,,Pending
+ORD-1374,2026-09-25,Zana Rama,Mitrovica,Home,Chair,4,88.49,Completed
+ORD-1175,2026-09-01,Dardan Morina,Gjakova,Electronics,Monitor,9,281.65,Cancelled
+ORD-1086,2026-09-30,Besa Gashi,Gjakova,Electronics,Monitor,5,242.85,Cancelled
+ORD-1101,2026-09-20,Majlinda Morina,Gjakova,Electronics,Keyboard,8,49.7,Completed
+ORD-1801,2026-09-30,Dardan Berisha,Ferizaj,Office Supplies,Pen,,2.23,Returned
+ORD-1642,2026-09-22,Dardan Hoxha,Prizren,Office Supplies,Notebook,8,7.47,Returned
+ORD-1555,2026-09-15,,Prishtina,Home,Desk Lamp,7,25.05,Cancelled
+ORD-1598,2026-09-15,Ilir Bytyqi,Mitrovica,Electronics,Mouse,2,28.83,Cancelled
+ORD-1752,2026-09-03,Elira Bytyqi,Gjakova,Home,Desk Lamp,2,,Pending
+ORD-1839,2026-09-30,Genta Kelmendi,Ferizaj,Office Supplies,Pen,1,,Cancelled
+ORD-1147,2026-09-03,Dardan Krasniqi,Prishtina,Electronics,,2,332.29,Returned
+ORD-1626,2026-08-15,Besa Kastrati,Mitrovica,Home,Desk Lamp,,,Completed
+ORD-1575,2026-09-28,Genta Shala,Peja,Office Supplies,Notebook,9,5.67,Cancelled
+ORD-1484,2026-09-20,Luan Morina,Peja,Office Supplies,Pen,4,4.92,Cancelled
+ORD-1199,2026-09-05,Majlinda Shala,Mitrovica,Office Supplies,Pen,6,,Returned
+ORD-1259,2026-09-28,Arben Kastrati,Prishtina,Electronics,Keyboard,7,32.92,Returned
+ORD-1821,,Elira Kastrati,Prizren,Electronics,Keyboard,2,65.06,Pending
+ORD-1784,2026-09-03,Dardan Berisha,Mitrovica,Home,Chair,6,140.54,
+ORD-1588,2026-09-01,Agon Bytyqi,Mitrovica,Home,Desk Lamp,,27.28,Cancelled
+ORD-1342,2026-09-01,Besa Krasniqi,Ferizaj,Office Supplies,Pen,1,4.58,Returned
+ORD-1400,2026-09-25,Valon Kastrati,Prishtina,Electronics,Monitor,10,120.41,Pending
+ORD-1200,2026-09-28,Pranvera Kastrati,Mitrovica,Home,Chair,1,125.97,Cancelled
+ORD-1221,,Besa Shala,Mitrovica,Office Supplies,Pen,2,1.99,Returned
+ORD-1243,2026-09-01,Blerta Krasniqi,Ferizaj,Electronics,Mouse,6,18.01,Pending
+ORD-1255,2026-08-15,Pranvera Morina,Ferizaj,Office Supplies,Notebook,10,5.0,Returned
+ORD-1281,2026-09-12,Kaltrina Bytyqi,Gjakova,,Mouse,7,24.9,Cancelled
+ORD-1435,2026-09-22,Valon Kastrati,Prishtina,Electronics,Keyboard,9,43.13,Completed
+ORD-1079,2026-09-15,Blerta Berisha,,Electronics,Keyboard,3,76.06,Cancelled
+ORD-1314,2026-09-03,Nderim Morina,Prishtina,Home,Desk Lamp,7,33.21,Completed
+ORD-1634,2026-08-15,Ilir Rama,Peja,Home,Chair,6,136.41,Completed
+ORD-1782,2026-09-12,Nderim Rama,Peja,,Notebook,4,6.64,Returned
+ORD-1822,2026-09-05,Luan Kastrati,Peja,Home,Chair,,79.24,Cancelled
+ORD-1655,2026-08-15,Luan Morina,Prizren,Electronics,Mouse,1,27.26,Pending
+ORD-1569,2026-09-05,Pranvera Morina,Peja,Electronics,Keyboard,6,67.04,Returned
+ORD-1075,2026-09-01,Pranvera Krasniqi,Gjakova,Home,Desk Lamp,7,27.37,Cancelled
+ORD-1018,2026-09-10,Agon Krasniqi,Peja,Home,Desk Lamp,,34.17,Cancelled
+ORD-1666,2026-09-10,Majlinda Hoxha,Prishtina,Office Supplies,Pen,8,3.92,Pending
+ORD-1765,2026-09-03,Kaltrina Krasniqi,Peja,Home,Chair,6,135.76,Pending
+ORD-1104,2026-09-30,Blerta Krasniqi,Prishtina,Home,Desk Lamp,8,43.05,Pending
+ORD-1284,2026-09-15,Agon Berisha,,Home,Desk Lamp,3,19.84,Returned
+ORD-1721,2026-08-15,Genta Kastrati,Prishtina,Home,Chair,8,83.91,Cancelled
+ORD-1293,2026-09-05,Fisnik Morina,Prishtina,Office Supplies,Notebook,,,Cancelled
+ORD-1247,2026-09-05,Nderim Shala,Mitrovica,Electronics,Keyboard,2,59.08,Returned
+ORD-1748,2026-09-01,Arben Gashi,Prishtina,Electronics,Monitor,8,267.98,Cancelled
+ORD-1347,,Zana Hoxha,Mitrovica,Electronics,Monitor,2,199.02,Completed
+ORD-1267,2026-09-18,Besa Berisha,Ferizaj,Electronics,Mouse,8,32.82,Completed
+ORD-1700,2026-08-15,Blerta Bytyqi,Prizren,Electronics,Mouse,6,29.26,Cancelled
+ORD-1472,2026-09-12,Blerta Rama,Prizren,Office Supplies,Pen,2,4.48,Cancelled
+ORD-1590,2026-09-18,Valon Berisha,Peja,Electronics,Mouse,7,36.45,Completed
+ORD-1156,2026-09-12,Elira Rama,Mitrovica,,Chair,4,135.06,
+ORD-1012,2026-09-30,Kaltrina Kelmendi,Gjakova,Home,Chair,3,95.72,Cancelled
+ORD-1134,,Zana Shala,Prishtina,Home,Desk Lamp,10,40.51,Cancelled
+ORD-1237,2026-09-22,Blerta Berisha,Prizren,,Pen,5,3.7,Cancelled
+ORD-1384,2026-09-03,Arben Hoxha,Prishtina,Electronics,Mouse,4,44.91,Cancelled
+ORD-1534,2026-09-20,Agon Shala,Prishtina,Office Supplies,Notebook,,5.34,Pending
+ORD-1236,2026-09-22,Valon Rama,Prizren,Electronics,Monitor,8,194.76,Returned
+ORD-1365,,Elira Berisha,Ferizaj,Electronics,Keyboard,10,71.4,
+ORD-1032,2026-09-28,Dardan Hoxha,Prishtina,Home,Desk Lamp,9,19.54,Completed
+ORD-1393,2026-09-25,Agon Rama,Gjakova,Home,Chair,6,191.9,Pending
+ORD-1682,2026-10-02,Nderim Bytyqi,Mitrovica,Electronics,Monitor,,225.94,Completed
+ORD-1761,2026-09-20,Elira Hoxha,Ferizaj,Home,Desk Lamp,4,25.46,Returned
+ORD-1251,2026-09-20,Agon Shala,Mitrovica,Electronics,Keyboard,4,,Pending
+ORD-1747,2026-09-18,Agon Kastrati,Prizren,Office Supplies,Notebook,4,3.27,Returned
+ORD-1489,2026-09-10,Fisnik Gashi,Ferizaj,Office Supplies,Notebook,22,7.91,Completed
+ORD-1523,2026-08-15,Agon Berisha,,Office Supplies,Notebook,,4.68,Pending
+ORD-1127,2026-09-30,Genta Shala,Mitrovica,Home,Chair,5,151.97,Cancelled
+ORD-1291,2026-09-10,Elira Kelmendi,Prishtina,Office Supplies,Pen,6,3.58,Pending
+ORD-1378,2026-09-20,Elira Kelmendi,Peja,Electronics,Keyboard,7,52.96,Pending
+ORD-1132,2026-09-10,Majlinda Bytyqi,Prishtina,Office Supplies,Notebook,1,3.27,Completed
+ORD-1407,2026-09-01,Genta Kastrati,Mitrovica,Home,Chair,7,177.15,In Progress
+ORD-1637,2026-09-12,Agon Rama,Ferizaj,Home,Desk Lamp,5,41.46,Completed
+ORD-1357,2026-09-18,Valon Kelmendi,Peja,,Notebook,1,2.72,Returned
+ORD-1413,2026-09-10,Luan Bytyqi,Mitrovica,Office Supplies,Pen,1,1.75,Cancelled
+ORD-1437,2026-09-10,Luan Shala,Ferizaj,Electronics,Keyboard,6,84.3,Cancelled
+ORD-1517,2026-09-15,Nderim Morina,Prizren,Home,Desk Lamp,,33.27,Completed
+ORD-1552,2026-09-28,Dardan Shala,Mitrovica,Electronics,Monitor,3,120.07,Cancelled
+ORD-1056,2026-09-20,Fisnik Gashi,Prishtina,Electronics,Monitor,4,191.4,Pending
+ORD-1064,2026-10-02,Valon Kastrati,Ferizaj,Office Supplies,Pen,7,1.25,Completed
+ORD-1745,2026-09-18,,Prizren,Home,Chair,8,86.67,Completed
+ORD-1612,2026-09-01,Valon Bytyqi,Gjakova,Office Supplies,,10,3.04,Cancelled
+ORD-1736,2026-09-28,,Mitrovica,Home,Desk Lamp,3,42.19,Completed
+ORD-1245,2026-09-05,Kaltrina Kelmendi,Ferizaj,Home,Desk Lamp,2,42.51,Completed
+ORD-1604,2026-08-15,Nderim Kelmendi,Ferizaj,Home,Desk Lamp,4,21.4,Cancelled
+ORD-1533,,Besa Kastrati,Prizren,Home,Desk Lamp,9,,Completed
+ORD-1040,2026-09-01,Dardan Morina,Peja,Office Supplies,Pen,1,4.62,Completed
+ORD-1190,2026-09-03,Genta Krasniqi,,Home,Chair,17,109.88,Completed
+ORD-1402,2026-09-10,Nderim Bytyqi,Prishtina,Office Supplies,Pen,2,1.67,Cancelled
+ORD-1565,2026-10-02,Besa Kelmendi,Peja,Home,Chair,9,144.36,Returned
+ORD-1157,2026-09-01,Besa Berisha,Mitrovica,Home,Chair,5,151.41,Completed
+ORD-1694,2026-09-25,Kaltrina Hoxha,Prishtina,Electronics,Monitor,10,304.92,Cancelled
+ORD-1787,,Majlinda Berisha,Prishtina,Office Supplies,Pen,1,2.78,Completed
+ORD-1049,2026-09-18,Zana Rama,Ferizaj,Home,Chair,10,80.55,Cancelled
+ORD-1499,,Ilir Kastrati,Gjakova,Home,Chair,5,123.0,Returned
+ORD-1424,2026-08-15,Kaltrina Hoxha,Peja,Office Supplies,Pen,2,4.43,Returned
+ORD-1632,2026-09-22,Ilir Bytyqi,Mitrovica,Home,Desk Lamp,,38.57,Pending
+ORD-1248,2026-09-28,Nderim Hoxha,Ferizaj,Home,Chair,2,114.56,Returned
+ORD-1117,2026-09-10,Pranvera Rama,,Electronics,Keyboard,5,72.77,Pending
+ORD-1253,2026-09-30,,Mitrovica,Electronics,Mouse,8,35.03,Cancelled
+ORD-1264,2026-09-28,Agon Gashi,Peja,Office Supplies,Notebook,4,6.5,Returned
+ORD-1107,2026-10-02,Fisnik Morina,Prizren,Office Supplies,Pen,9,1.97,Pending
+ORD-1099,2026-09-28,Luan Hoxha,Gjakova,Electronics,Keyboard,8,56.14,Returned
+ORD-1474,2026-09-30,Arben Rama,Prishtina,Home,Chair,8,87.76,Returned
+ORD-1808,2026-10-02,Pranvera Kastrati,Mitrovica,Electronics,Keyboard,2,54.58,Returned
+ORD-1159,2026-09-03,Kaltrina Kelmendi,Gjakova,Office Supplies,Pen,7,1.7,Cancelled
+ORD-1145,2026-09-18,Ilir Morina,Mitrovica,Home,Chair,2,89.38,Pending
+ORD-1106,2026-09-18,Majlinda Kelmendi,Ferizaj,Electronics,Monitor,8,311.39,Cancelled
+ORD-1741,2026-09-01,Blerta Hoxha,Ferizaj,Home,,1,187.7,Completed
+ORD-1315,2026-09-20,Kaltrina Bytyqi,Peja,Office Supplies,Notebook,9,5.31,Returned
+ORD-1759,2026-09-01,Dardan Shala,Peja,Home,Desk Lamp,8,34.1,Returned
+ORD-1672,2026-10-02,Majlinda Rama,Peja,,Chair,2,210.06,Returned
+ORD-1155,2026-09-20,Dardan Shala,Mitrovica,Electronics,Mouse,1,37.63,Returned
+ORD-1600,2026-09-15,Elira Berisha,Ferizaj,Office Supplies,Notebook,4,7.25,Returned
+ORD-1638,2026-09-22,Ilir Berisha,,Office Supplies,Pen,4,1.09,Cancelled
+ORD-1729,2026-09-28,Agon Shala,Mitrovica,Office Supplies,Notebook,7,5.42,Returned
+ORD-1383,2026-10-02,Pranvera Krasniqi,Gjakova,Electronics,Mouse,7,20.94,Cancelled
+ORD-1636,2026-09-10,Dardan Krasniqi,Ferizaj,Electronics,Mouse,3,35.56,Completed
+ORD-1045,2026-08-15,Zana Berisha,Peja,Electronics,Mouse,6,37.1,Pending
+ORD-1798,2026-09-28,Ilir Gashi,Prishtina,Home,Desk Lamp,5,39.09,
+ORD-1653,2026-09-30,Fisnik Kelmendi,Gjakova,Electronics,Keyboard,8,29.77,Returned
+ORD-1692,2026-09-03,Luan Hoxha,Prizren,Office Supplies,Pen,2,4.09,Cancelled
+ORD-1219,2026-09-30,Fisnik Rama,Ferizaj,Office Supplies,Pen,10,1.82,Cancelled
+ORD-1763,2026-09-22,Besa Krasniqi,Ferizaj,Office Supplies,Pen,8,3.47,Completed
+ORD-1280,2026-09-12,Luan Kelmendi,Gjakova,Home,Desk Lamp,1,38.01,Returned
+ORD-1608,2026-09-01,Agon Kelmendi,Mitrovica,Office Supplies,Pen,8,,Pending
+ORD-1146,2026-09-15,Nderim Morina,Peja,Office Supplies,Pen,2,2.59,Cancelled
+ORD-1317,2026-09-15,Nderim Bytyqi,Prizren,Electronics,Monitor,5,152.59,Returned
+ORD-1149,2026-09-15,Besa Shala,Gjakova,Electronics,Keyboard,7,46.22,Cancelled
+ORD-1833,2026-09-05,Valon Bytyqi,Gjakova,Home,Chair,10,126.63,Cancelled
+ORD-1493,2026-09-05,Ilir Berisha,Peja,Electronics,Monitor,6,282.06,Returned
+ORD-1019,2026-09-05,Dardan Bytyqi,Prishtina,Electronics,Mouse,2,41.34,Pending
+ORD-1150,2026-10-02,Blerta Berisha,Prishtina,,Monitor,3,236.7,Cancelled
+ORD-1832,2026-08-15,Blerta Shala,Ferizaj,Home,Chair,7,92.8,Cancelled
+ORD-1322,2026-09-25,Ilir Shala,Ferizaj,Home,Chair,4,131.38,Completed
+ORD-1238,2026-09-15,Majlinda Berisha,Ferizaj,Office Supplies,Notebook,5,7.68,Returned
+ORD-1207,2026-09-28,,Prishtina,Electronics,Mouse,,40.58,Cancelled
+ORD-1341,2026-09-25,Majlinda Rama,Gjakova,Office Supplies,Notebook,6,5.22,Pending
+ORD-1791,2026-09-01,Fisnik Hoxha,Prizren,Home,Chair,3,101.43,Completed
+ORD-1220,2026-09-03,Elira Rama,Prizren,Office Supplies,Pen,6,1.52,Returned
+ORD-1749,2026-09-03,Arben Kelmendi,Prizren,,Notebook,4,,Pending
+ORD-1597,2026-09-30,Kaltrina Morina,Mitrovica,Office Supplies,Pen,2,4.31,Pending
+ORD-1827,2026-09-18,Dardan Rama,Mitrovica,Office Supplies,Pen,1,3.23,Completed
+ORD-1078,2026-09-15,Kaltrina Bytyqi,Gjakova,Electronics,Mouse,8,23.37,Returned
+ORD-1563,2026-09-20,Besa Bytyqi,Peja,Home,Chair,9,164.0,Cancelled
+ORD-1279,2026-09-01,Ilir Rama,Peja,Electronics,Monitor,6,227.98,Returned
+ORD-1662,2026-09-20,Arben Kastrati,Ferizaj,Office Supplies,Pen,3,2.8,Pending
+ORD-1190,2026-09-03,Genta Krasniqi,,Home,Chair,7,109.88,Cancelled
+ORD-1418,,Luan Rama,Ferizaj,Electronics,Monitor,3,220.14,Completed
+ORD-1375,2026-09-18,Dardan Kastrati,Gjakova,Electronics,Monitor,7,150.71,Completed
+ORD-1256,2026-09-03,Dardan Kelmendi,Mitrovica,Home,Desk Lamp,10,38.57,Cancelled
+ORD-1432,2026-10-02,Luan Morina,,Electronics,Monitor,4,,Completed
+ORD-1448,2026-09-28,Blerta Krasniqi,Prizren,Electronics,Mouse,3,32.29,Returned
+ORD-1743,2026-09-03,Kaltrina Gashi,Mitrovica,,Pen,2,,
+ORD-1394,,,Prishtina,Electronics,Keyboard,3,57.53,Completed
+ORD-1459,2026-09-15,Ilir Shala,Gjakova,Electronics,Mouse,10,,Pending
+ORD-1504,2026-09-28,Zana Krasniqi,Prizren,Electronics,Mouse,4,35.11,Returned
+ORD-1829,2026-09-28,Pranvera Hoxha,Prishtina,Office Supplies,Notebook,8,7.21,Returned
+ORD-1449,2026-09-30,Valon Gashi,Prishtina,Office Supplies,Pen,8,2.72,Pending
+ORD-1505,,,Prishtina,Electronics,Monitor,1,277.79,Completed
+ORD-1497,2026-08-15,Kaltrina Hoxha,Gjakova,Home,Chair,6,85.57,Completed
+ORD-1510,2026-09-01,Majlinda Hoxha,Peja,Electronics,Monitor,7,170.57,Cancelled
+ORD-1707,2026-09-10,Majlinda Morina,Gjakova,Electronics,,9,154.32,Returned
+ORD-1732,2026-10-02,Nderim Kelmendi,Prishtina,Home,Desk Lamp,3,32.04,Completed
+ORD-1041,2026-09-22,Genta Bytyqi,Gjakova,Office Supplies,Notebook,5,6.0,Returned
+ORD-1257,2026-09-05,Ilir Kastrati,Gjakova,Home,Desk Lamp,9,19.67,Pending
+ORD-1131,2026-09-28,Dardan Bytyqi,Ferizaj,Home,Chair,4,207.71,Cancelled
+ORD-1686,2026-09-22,Pranvera Bytyqi,Peja,Office Supplies,Notebook,4,5.23,Pending
+ORD-1774,2026-09-10,Dardan Kelmendi,Prishtina,Home,Desk Lamp,4,30.22,Returned
+ORD-1554,2026-09-18,Kaltrina Kastrati,Prizren,Home,Chair,5,125.38,Returned
+ORD-1181,,Fisnik Shala,Prishtina,Home,Chair,4,215.11,Returned
+ORD-1427,2026-10-02,Agon Hoxha,Prizren,Home,,9,94.67,Pending
+ORD-1739,2026-09-10,Blerta Krasniqi,Prizren,Office Supplies,Notebook,3,5.86,Returned
+ORD-1359,2026-09-12,Nderim Morina,Gjakova,Home,Desk Lamp,3,44.31,Completed
+ORD-1163,2026-09-22,Kaltrina Rama,Prizren,Electronics,Keyboard,6,77.23,Completed
+ORD-1303,2026-09-05,Luan Bytyqi,Prizren,Office Supplies,Notebook,5,3.26,
+ORD-1125,,Majlinda Bytyqi,Prishtina,Home,Desk Lamp,1,34.96,Cancelled
+ORD-1849,2026-09-12,Ilir Shala,Peja,Office Supplies,Notebook,2,5.23,Completed
+ORD-1364,2026-09-15,Pranvera Gashi,Mitrovica,Home,Desk Lamp,9,31.4,Pending
+ORD-1440,,Ilir Rama,Ferizaj,Electronics,Monitor,,282.86,Pending
+ORD-1701,2026-08-15,Elira Rama,Gjakova,Office Supplies,Notebook,7,5.29,Completed
+ORD-1819,2026-09-01,Dardan Gashi,Mitrovica,Electronics,Keyboard,2,66.45,Returned
+ORD-1699,2026-09-20,Genta Rama,Peja,Home,Chair,7,207.36,Returned
+ORD-1531,2026-09-20,Nderim Krasniqi,Mitrovica,Home,Desk Lamp,,35.85,Returned
+ORD-1366,2026-09-22,Valon Hoxha,Prizren,Electronics,Mouse,6,16.38,Completed
+ORD-1232,2026-09-30,Blerta Shala,Ferizaj,Home,Chair,1,190.53,Pending
+ORD-1292,2026-09-05,Luan Kelmendi,Gjakova,Home,Chair,2,114.31,Completed
+ORD-1137,2026-09-03,Kaltrina Hoxha,Gjakova,Home,Desk Lamp,6,19.37,Pending
+ORD-1687,2026-08-15,Ilir Krasniqi,Mitrovica,Office Supplies,Notebook,1,3.12,Completed
+ORD-1717,2026-09-05,Elira Kastrati,Mitrovica,Electronics,Monitor,6,231.15,Completed
+ORD-1005,2026-09-22,Luan Gashi,Ferizaj,Electronics,Keyboard,6,,Returned
+ORD-1128,2026-10-02,Fisnik Berisha,Ferizaj,Office Supplies,Notebook,2,5.08,Returned
+ORD-1187,2026-09-12,Zana Krasniqi,Peja,Office Supplies,Notebook,9,7.09,Pending
+ORD-1404,2026-09-03,Blerta Morina,Peja,Home,Chair,7,215.52,Returned
+ORD-1115,2026-09-18,Majlinda Berisha,Ferizaj,Home,Desk Lamp,4,34.67,Completed
+ORD-1611,2026-09-03,Fisnik Hoxha,Prishtina,,Monitor,1,271.54,Pending
+ORD-1799,2026-09-28,Ilir Bytyqi,Peja,Home,Desk Lamp,7,44.35,Completed
+ORD-1802,2026-09-05,Zana Hoxha,Gjakova,Office Supplies,Pen,7,2.15,Completed
+ORD-1828,2026-09-12,Arben Berisha,Gjakova,Office Supplies,Pen,5,3.4,Returned
+ORD-1306,2026-10-02,Nderim Bytyqi,Peja,Office Supplies,Pen,7,4.37,Returned
+ORD-1544,2026-09-28,Zana Kastrati,Peja,Home,Chair,,112.89,Cancelled
+ORD-1111,2026-09-20,Valon Morina,Ferizaj,Office Supplies,Notebook,8,4.25,Pending
+ORD-1615,2026-09-10,Besa Krasniqi,Peja,Office Supplies,Notebook,5,7.03,Completed
+ORD-1506,2026-09-18,Dardan Kastrati,Prizren,Electronics,Mouse,9,38.83,Cancelled
+ORD-1428,2026-10-02,Pranvera Berisha,Peja,Electronics,Mouse,1,15.99,Cancelled
+ORD-1074,2026-08-15,Elira Shala,Ferizaj,Home,Desk Lamp,4,20.05,Completed
+ORD-1622,2026-10-02,Agon Shala,Prizren,Home,Desk Lamp,5,31.98,Pending
+ORD-1006,2026-09-01,Pranvera Kastrati,Prizren,Electronics,Keyboard,5,29.73,Completed
+ORD-1092,2026-09-05,Genta Berisha,Prizren,Electronics,Monitor,2,,Completed
+ORD-1646,2026-09-18,Valon Kelmendi,Ferizaj,Office Supplies,Pen,2,3.63,Pending
+ORD-1728,2026-09-20,Kaltrina Morina,Ferizaj,Office Supplies,,9,3.98,Returned
+ORD-1249,2026-09-05,Majlinda Kastrati,Ferizaj,,Notebook,6,2.58,Pending
+ORD-1268,2026-10-02,Fisnik Kelmendi,Peja,Office Supplies,Notebook,1,0.0,Pending
+ORD-1172,2026-09-03,,Prishtina,Office Supplies,Pen,6,2.55,Cancelled
+ORD-1621,2026-09-12,Arben Morina,Prishtina,Home,Chair,8,127.2,Completed
+ORD-1758,2026-09-25,Arben Morina,Prizren,Electronics,Mouse,5,19.29,Pending
+ORD-1458,2026-09-12,Zana Krasniqi,Gjakova,Home,Chair,3,165.31,Completed
+ORD-1405,2026-09-12,Besa Shala,Prishtina,Office Supplies,Notebook,2,3.39,Cancelled
+ORD-1795,,Fisnik Kastrati,Ferizaj,Home,Chair,5,143.72,Returned
+ORD-1196,2026-09-18,Nderim Shala,Prishtina,Home,Desk Lamp,1,25.72,Cancelled
+ORD-1665,2026-09-18,Genta Hoxha,Prizren,Electronics,Keyboard,3,58.93,Completed
+ORD-1558,2026-09-22,Kaltrina Rama,Mitrovica,Office Supplies,Notebook,4,4.6,Cancelled
+ORD-1112,2026-09-22,Nderim Krasniqi,Mitrovica,Electronics,Mouse,10,30.07,Completed
+ORD-1138,,Nderim Hoxha,Gjakova,Home,Desk Lamp,4,33.83,Completed
+ORD-1144,2026-09-20,Nderim Morina,Gjakova,Home,Desk Lamp,5,19.77,Cancelled
+ORD-1136,2026-09-28,Arben Krasniqi,Ferizaj,Office Supplies,Pen,2,,Pending
+ORD-1345,2026-09-30,Kaltrina Morina,Ferizaj,Home,Desk Lamp,5,19.4,Completed
+ORD-1100,2026-10-02,Nderim Rama,Ferizaj,Office Supplies,Notebook,7,5.09,Completed
+ORD-1216,2026-09-28,Dardan Gashi,Ferizaj,Home,Desk Lamp,1,40.28,Cancelled
+ORD-1623,2026-09-15,Fisnik Krasniqi,Prishtina,Office Supplies,Notebook,5,,Returned
+ORD-1326,2026-09-25,Valon Morina,Gjakova,Office Supplies,Notebook,3,,Pending
+ORD-1030,2026-09-10,Blerta Hoxha,Prizren,Office Supplies,Pen,9,2.14,Cancelled
+ORD-1837,2026-08-15,Blerta Kelmendi,Peja,Office Supplies,Notebook,,4.11,Cancelled
+ORD-1657,2026-09-22,Nderim Morina,Gjakova,Office Supplies,Notebook,7,5.84,Completed
+ORD-1320,2026-09-28,Zana Bytyqi,Prizren,Electronics,Monitor,9,156.83,Returned
+ORD-1548,,Blerta Kastrati,Mitrovica,Office Supplies,Notebook,3,6.92,Completed
+ORD-1009,2026-09-28,Genta Bytyqi,Mitrovica,Home,Desk Lamp,4,32.42,Cancelled
+ORD-1667,2026-09-25,Arben Bytyqi,Mitrovica,Electronics,Monitor,1,296.04,Completed
+ORD-1786,2026-09-20,Agon Shala,Mitrovica,Electronics,Keyboard,4,34.03,Pending
+ORD-1419,2026-09-03,Arben Gashi,Ferizaj,Office Supplies,Pen,5,3.21,Returned
+ORD-1779,,Besa Kelmendi,Ferizaj,Home,Desk Lamp,6,34.75,Cancelled
+ORD-1008,2026-09-25,Ilir Shala,Ferizaj,Home,Chair,6,98.58,Completed
+ORD-1068,2026-09-15,Genta Gashi,Peja,Home,Chair,8,94.68,Returned
+ORD-1201,2026-09-01,Pranvera Kelmendi,Ferizaj,Electronics,Mouse,7,35.14,Pending
+ORD-1208,2026-08-15,Majlinda Hoxha,Ferizaj,Office Supplies,Notebook,5,5.52,Pending
+ORD-1477,2026-09-03,Blerta Rama,Ferizaj,Electronics,Mouse,6,40.33,Returned
+ORD-1088,2026-09-18,Luan Bytyqi,Prishtina,Office Supplies,Pen,1,,Completed
+ORD-1455,2026-09-28,Besa Kastrati,Prishtina,Office Supplies,Notebook,5,4.56,Completed
+ORD-1441,2026-09-12,Majlinda Hoxha,Ferizaj,Home,Chair,24,206.45,Cancelled
+ORD-1409,2026-09-05,Valon Kastrati,Gjakova,Office Supplies,Pen,1,1.95,Returned
+ORD-1369,2026-09-01,Nderim Krasniqi,Gjakova,,Keyboard,5,76.96,Returned
+ORD-1673,2026-09-30,Majlinda Bytyqi,Prizren,Electronics,Keyboard,2,75.6,Completed
+ORD-1351,2026-09-15,Elira Kastrati,Ferizaj,Electronics,Mouse,3,41.9,Returned
+ORD-1304,2026-09-30,Dardan Rama,Peja,Office Supplies,Pen,8,2.68,Pending
+ORD-1620,2026-09-18,Nderim Kastrati,Prizren,Office Supplies,Pen,7,4.06,Pending
+ORD-1511,2026-09-12,Valon Kelmendi,Gjakova,Home,Desk Lamp,1,21.33,Completed
+ORD-1420,2026-08-15,Elira Krasniqi,Gjakova,Office Supplies,Notebook,10,,Completed
+ORD-1215,2026-10-02,Fisnik Hoxha,Ferizaj,Office Supplies,Notebook,3,5.26,Cancelled
+ORD-1593,2026-09-05,Fisnik Gashi,Gjakova,Home,Chair,1,102.23,Completed
+ORD-1046,2026-09-15,Blerta Berisha,Prizren,Home,Desk Lamp,1,28.33,Returned
+ORD-1577,2026-10-02,Zana Kastrati,Gjakova,Home,Desk Lamp,6,41.44,
+ORD-1324,2026-09-15,Valon Kastrati,Prishtina,Office Supplies,Pen,10,3.39,Cancelled
+ORD-1670,2026-09-15,Besa Hoxha,Prishtina,Electronics,Mouse,6,16.65,Cancelled
+ORD-1332,2026-09-18,Besa Bytyqi,Gjakova,Electronics,Keyboard,6,71.51,Pending
+ORD-1470,2026-09-20,Elira Morina,Ferizaj,Home,Desk Lamp,6,44.4,Pending
+ORD-1095,2026-09-05,Luan Hoxha,Prishtina,,Monitor,3,0.0,Completed
+ORD-1553,2026-09-30,Agon Krasniqi,Prishtina,Office Supplies,Pen,9,3.34,
+ORD-1652,2026-09-28,Kaltrina Kastrati,Prizren,Home,Chair,10,162.81,Pending
+ORD-1755,2026-09-05,Genta Bytyqi,Prizren,Office Supplies,Notebook,,6.33,Completed
+ORD-1496,2026-09-20,Besa Kastrati,Ferizaj,Electronics,Mouse,6,19.61,Cancelled
+ORD-1260,2026-09-18,Ilir Kastrati,Prishtina,Office Supplies,Notebook,1,4.68,Completed
+ORD-1265,2026-09-12,Kaltrina Bytyqi,Peja,Home,Chair,4,152.13,Pending
+ORD-1490,2026-09-30,Elira Kastrati,Ferizaj,Home,Desk Lamp,8,27.68,Pending
+ORD-1235,2026-09-22,Blerta Gashi,Ferizaj,Electronics,Keyboard,10,,Pending
+ORD-1010,2026-09-12,Kaltrina Gashi,Peja,Home,Desk Lamp,1,36.48,Returned
+ORD-1339,2026-09-25,Pranvera Bytyqi,Mitrovica,Home,Desk Lamp,5,28.88,Cancelled
+ORD-1423,2026-09-12,Pranvera Gashi,Peja,Electronics,Mouse,5,37.37,Cancelled
+ORD-1386,2026-09-05,,Peja,Home,,4,100.06,Returned
+ORD-1168,2026-09-25,Majlinda Krasniqi,Ferizaj,Office Supplies,Pen,6,1.15,Completed
+ORD-1270,2026-09-01,Genta Morina,Gjakova,Office Supplies,Pen,10,1.24,Returned
+ORD-1154,2026-09-01,Majlinda Rama,Gjakova,Office Supplies,Pen,6,2.36,Completed
+ORD-1152,2026-09-05,Majlinda Rama,Peja,Home,Chair,5,79.2,Completed
+ORD-1643,2026-09-30,Majlinda Rama,Mitrovica,Home,Desk Lamp,9,19.07,Returned
+ORD-1603,2026-09-30,Besa Rama,Ferizaj,Electronics,Monitor,1,262.29,Pending
+ORD-1586,2026-08-15,Majlinda Rama,Mitrovica,Home,Chair,9,150.9,Pending
+ORD-1282,2026-09-05,Genta Hoxha,Ferizaj,Office Supplies,Pen,6,2.84,Returned
+ORD-1478,2026-09-30,Pranvera Shala,Gjakova,Electronics,Monitor,6,171.0,Cancelled
+ORD-1308,2026-10-02,Kaltrina Rama,Mitrovica,Office Supplies,Pen,8,3.94,Cancelled
+ORD-1681,2026-09-20,Blerta Bytyqi,Prishtina,Electronics,,6,24.92,Pending
+ORD-1519,2026-09-28,Blerta Kelmendi,Prishtina,Office Supplies,Pen,5,2.43,Pending
+ORD-1077,2026-09-15,Blerta Bytyqi,Mitrovica,Home,Chair,9,164.31,Cancelled
+ORD-1206,2026-09-10,Ilir Kastrati,Peja,Electronics,Keyboard,8,71.5,Returned
+ORD-1082,2026-09-18,Pranvera Bytyqi,Gjakova,Office Supplies,Notebook,10,4.18,Cancelled
+ORD-1725,,Dardan Hoxha,Gjakova,Electronics,Monitor,6,,Pending
+ORD-1709,2026-09-15,Valon Hoxha,Peja,Home,Desk Lamp,9,34.51,Completed
+ORD-1328,2026-09-05,Besa Rama,Prishtina,Electronics,Mouse,8,,Returned
+ORD-1836,2026-08-15,Elira Krasniqi,Ferizaj,Home,Chair,10,97.15,Returned
+ORD-1292,2026-09-05,Luan Kelmendi,Gjakova,Home,Chair,15,114.31,Cancelled
+ORD-1277,2026-08-15,Valon Berisha,Gjakova,Office Supplies,Notebook,4,6.33,Cancelled
+ORD-1601,2026-09-01,Elira Morina,Prizren,,Mouse,10,,
+ORD-1500,2026-09-01,Arben Berisha,Ferizaj,Home,Desk Lamp,6,21.1,Pending
+ORD-1557,2026-09-03,Arben Kastrati,Prishtina,Electronics,Keyboard,8,82.67,Returned
+ORD-1105,2026-09-20,,Prizren,Electronics,Keyboard,9,58.05,
+ORD-1742,2026-09-20,Valon Kastrati,Prishtina,Home,Chair,6,113.63,Returned
+ORD-1848,2026-09-15,Nderim Hoxha,Gjakova,Home,Desk Lamp,9,27.07,Cancelled
+ORD-1069,2026-09-20,Luan Morina,Peja,Electronics,,17,44.61,Cancelled
+ORD-1656,2026-09-18,Blerta Rama,Mitrovica,Electronics,Mouse,8,20.31,Pending
+ORD-1581,2026-08-15,Blerta Kelmendi,,Electronics,Keyboard,2,,Completed
+ORD-1649,2026-09-05,Nderim Krasniqi,Gjakova,Electronics,Monitor,3,334.6,Completed
+ORD-1570,2026-10-02,Elira Shala,Prizren,Home,Desk Lamp,4,44.44,Returned
+ORD-1780,2026-09-28,Besa Rama,Peja,Electronics,Keyboard,10,46.94,Pending
+ORD-1492,2026-10-02,Agon Shala,Prizren,Home,Chair,1,215.05,Returned
+ORD-1527,2026-09-15,Genta Morina,Ferizaj,Home,Chair,5,196.06,Returned
+ORD-1465,,Dardan Rama,Peja,Office Supplies,Pen,5,4.82,In Progress
+ORD-1024,2026-09-10,Blerta Berisha,Mitrovica,Home,Chair,3,106.06,Returned
+ORD-1594,2026-09-01,,Prishtina,Electronics,Keyboard,8,41.15,Pending
+ORD-1230,2026-09-30,Majlinda Kastrati,Peja,Home,,10,98.56,Returned
+ORD-1792,2026-09-28,Genta Berisha,Gjakova,Office Supplies,Notebook,6,4.92,Completed
+ORD-1001,2026-09-28,Kaltrina Berisha,Prizren,Home,Desk Lamp,5,18.68,Completed
+ORD-1169,2026-09-15,Besa Bytyqi,Gjakova,Home,Chair,9,142.09,Pending
+ORD-1595,2026-09-15,Blerta Rama,Mitrovica,Office Supplies,Notebook,5,4.38,Completed
+ORD-1756,2026-09-01,Agon Bytyqi,Prishtina,Electronics,Monitor,3,260.86,Completed
+ORD-1526,2026-09-03,Besa Gashi,Ferizaj,Office Supplies,Pen,8,,Cancelled
+ORD-1789,2026-09-15,Genta Shala,Prizren,Office Supplies,Notebook,5,7.44,Returned
+ORD-1073,2026-09-18,Majlinda Kastrati,Ferizaj,Electronics,Keyboard,1,,Returned
+ORD-1599,2026-09-10,Elira Shala,Mitrovica,Electronics,Monitor,9,,Cancelled
+ORD-1838,2026-09-15,Zana Krasniqi,Mitrovica,Home,Desk Lamp,1,43.72,Returned
+ORD-1722,2026-09-12,Fisnik Kelmendi,Prishtina,Home,Desk Lamp,2,25.74,Cancelled
+ORD-1396,,Besa Gashi,Prizren,Electronics,Keyboard,,68.02,Pending
+ORD-1130,2026-09-25,,Mitrovica,Office Supplies,Pen,6,3.34,Completed
+ORD-1629,2026-09-10,Arben Kastrati,Gjakova,Home,Desk Lamp,7,0.0,Completed
+ORD-1041,2026-09-22,Genta Bytyqi,Gjakova,Office Supplies,Notebook,16,6.0,Cancelled
+ORD-1512,2026-09-05,Ilir Morina,Ferizaj,Electronics,Monitor,6,290.53,Pending
+ORD-1684,,Agon Rama,Mitrovica,,Notebook,5,7.83,Pending
+ORD-1027,2026-08-15,Arben Berisha,Prishtina,Office Supplies,Notebook,5,4.82,Returned
+ORD-1389,2026-09-18,Pranvera Kastrati,Gjakova,Home,Chair,8,144.55,Cancelled
+ORD-1387,2026-09-01,Majlinda Bytyqi,Mitrovica,Electronics,Monitor,4,262.41,
+ORD-1443,2026-09-25,Zana Rama,Peja,Office Supplies,Notebook,5,6.59,Cancelled
+ORD-1297,2026-09-03,Valon Morina,Prizren,Office Supplies,Pen,9,1.91,Returned
+ORD-1271,2026-09-18,Zana Morina,Prizren,Office Supplies,Pen,6,,Cancelled
+ORD-1545,2026-09-12,Blerta Hoxha,Peja,Office Supplies,Notebook,9,4.77,Returned
+ORD-1453,2026-09-01,Pranvera Berisha,Prizren,Home,Desk Lamp,8,,Returned
+ORD-1535,2026-08-15,Kaltrina Morina,Gjakova,Home,Chair,3,,Pending
+ORD-1059,2026-08-15,Arben Hoxha,Mitrovica,Home,Desk Lamp,2,42.77,Cancelled
+ORD-1680,2026-10-02,Nderim Rama,Mitrovica,Home,Chair,2,186.22,Completed
+ORD-1340,2026-09-10,Pranvera Krasniqi,Gjakova,Electronics,Monitor,8,141.42,Returned
+ORD-1614,2026-10-02,Pranvera Kelmendi,Ferizaj,Electronics,Keyboard,1,73.06,Returned
+ORD-1713,2026-09-28,Agon Hoxha,Ferizaj,Home,Desk Lamp,2,,Returned
+ORD-1193,2026-08-15,Arben Bytyqi,Ferizaj,Electronics,Keyboard,3,57.76,Pending
+ORD-1325,2026-09-10,Dardan Hoxha,Peja,Office Supplies,Notebook,5,6.98,Completed
+ORD-1198,2026-09-22,Dardan Morina,Gjakova,Home,Chair,,,Pending
+ORD-1003,2026-08-15,Zana Berisha,Mitrovica,Home,Desk Lamp,9,33.15,Cancelled
+ORD-1441,2026-09-12,Majlinda Hoxha,Ferizaj,Home,Chair,6,206.45,Pending
+ORD-1804,2026-09-30,Zana Hoxha,Gjakova,Electronics,Keyboard,,63.33,Returned
+ORD-1640,2026-09-03,Luan Gashi,Mitrovica,Electronics,Mouse,10,23.52,Completed
+ORD-1213,2026-09-15,,Ferizaj,Electronics,Monitor,3,155.19,Pending
+ORD-1058,2026-09-01,Zana Berisha,Prizren,Electronics,Monitor,2,278.15,Returned
+ORD-1764,,Elira Krasniqi,Prizren,Electronics,Mouse,8,38.56,Returned
+ORD-1372,2026-10-02,Nderim Gashi,Ferizaj,Home,Chair,1,167.21,
+ORD-1543,2026-09-28,Pranvera Krasniqi,Prizren,Electronics,Monitor,7,304.99,Returned
+ORD-1054,2026-09-28,Nderim Bytyqi,Mitrovica,Office Supplies,Notebook,20,4.86,Cancelled
+ORD-1380,2026-09-15,Fisnik Krasniqi,Ferizaj,Home,Desk Lamp,6,23.81,
+ORD-1727,2026-09-20,Besa Hoxha,Mitrovica,Home,,2,184.55,Returned
+ORD-1356,2026-09-01,Blerta Krasniqi,Prishtina,Home,Chair,3,127.98,Completed
+ORD-1790,2026-09-30,Arben Hoxha,Gjakova,Office Supplies,Notebook,5,3.32,Pending
+ORD-1076,2026-09-30,Arben Hoxha,Mitrovica,Office Supplies,Pen,6,,Pending
+ORD-1825,2026-09-10,,Mitrovica,Home,,2,29.87,Returned
+ORD-1847,2026-09-03,Nderim Kastrati,Prishtina,Electronics,,7,47.66,Returned
+ORD-1416,2026-09-03,Besa Kelmendi,Gjakova,Electronics,Keyboard,7,42.93,Pending
+ORD-1126,2026-08-15,Zana Hoxha,Prizren,Electronics,Mouse,6,42.29,Pending
+ORD-1403,2026-09-20,Elira Gashi,Prishtina,Electronics,Monitor,5,,Returned
+ORD-1708,,Majlinda Morina,Ferizaj,Electronics,Monitor,5,321.81,Cancelled
+ORD-1644,2026-08-15,Pranvera Shala,Prizren,Electronics,Mouse,6,25.4,Cancelled
+ORD-1381,2026-09-22,Genta Gashi,,Office Supplies,Notebook,5,6.22,Returned
+ORD-1815,2026-09-18,Ilir Kelmendi,Gjakova,Electronics,Mouse,4,19.64,Completed
+ORD-1468,2026-09-20,Pranvera Kastrati,Prishtina,Home,Chair,7,101.28,In Progress
+ORD-1628,2026-09-15,Besa Rama,Gjakova,Home,Chair,9,82.85,Pending
+ORD-1119,2026-09-20,Fisnik Berisha,Mitrovica,Home,Desk Lamp,10,31.44,Cancelled
+ORD-1140,2026-09-22,Luan Gashi,Prizren,Electronics,Monitor,3,194.47,
+ORD-1491,2026-08-15,Besa Morina,,Home,Chair,5,109.45,Returned
+ORD-1606,2026-09-22,Blerta Berisha,Gjakova,Home,Chair,9,156.06,Pending
+ORD-1272,2026-09-22,Majlinda Hoxha,Mitrovica,,Monitor,4,228.91,Completed
+ORD-1311,2026-09-30,Kaltrina Shala,Ferizaj,Office Supplies,Pen,5,,Pending
+ORD-1189,2026-09-01,Kaltrina Hoxha,Peja,Home,Desk Lamp,10,35.06,Returned
+ORD-1002,2026-09-22,Agon Krasniqi,Prizren,Home,Desk Lamp,1,33.94,Pending
+ORD-1195,,Valon Kelmendi,Mitrovica,Electronics,Mouse,5,24.47,Cancelled
+ORD-1450,2026-09-28,Ilir Gashi,,Office Supplies,,9,7.41,Completed
+ORD-1793,,Genta Kelmendi,Peja,Office Supplies,Pen,8,1.59,Completed
+ORD-1066,2026-09-30,Valon Rama,Ferizaj,Electronics,Keyboard,1,51.15,Returned
+ORD-1184,2026-09-01,Valon Krasniqi,Peja,Electronics,Keyboard,4,55.12,Pending
+ORD-1390,2026-08-15,Kaltrina Gashi,Peja,Office Supplies,Notebook,10,2.64,Completed
+ORD-1660,2026-10-02,Besa Kelmendi,Prizren,Office Supplies,Pen,5,1.67,Returned
+ORD-1461,2026-09-05,,Ferizaj,Electronics,,,15.38,Returned
+ORD-1546,2026-09-20,Fisnik Krasniqi,Ferizaj,Office Supplies,Pen,7,4.1,In Progress
+ORD-1751,2026-10-02,Majlinda Krasniqi,Mitrovica,Home,Desk Lamp,1,,Pending
+ORD-1835,2026-09-25,Blerta Gashi,Prizren,Electronics,Monitor,2,132.16,Returned
+ORD-1116,2026-09-01,Arben Hoxha,Ferizaj,Electronics,Monitor,2,281.89,Cancelled
+ORD-1020,,Luan Kelmendi,Gjakova,Home,Chair,3,212.29,
+ORD-1578,2026-09-30,Nderim Rama,Ferizaj,Electronics,Mouse,,19.86,Cancelled
+ORD-1335,2026-09-22,Ilir Berisha,,Home,Chair,,99.07,Cancelled
+ORD-1244,2026-09-12,Blerta Berisha,Peja,Home,Desk Lamp,8,,Cancelled
+ORD-1697,2026-09-03,Dardan Bytyqi,,Electronics,Monitor,9,294.43,Pending
+ORD-1714,2026-09-20,Arben Kastrati,Mitrovica,Office Supplies,Notebook,7,2.97,Pending
+ORD-1212,2026-10-02,Genta Hoxha,Mitrovica,Office Supplies,Pen,9,1.51,Completed
+ORD-1566,2026-09-01,,Ferizaj,Home,Desk Lamp,2,30.34,Completed
+ORD-1162,,Kaltrina Morina,Gjakova,Home,Chair,2,87.78,Returned
+ORD-1299,2026-09-12,Pranvera Krasniqi,Prishtina,Home,,6,,Completed
+ORD-1711,2026-09-28,Valon Morina,Mitrovica,Office Supplies,Pen,7,3.5,Pending
+ORD-1176,2026-09-05,Nderim Bytyqi,Prizren,Office Supplies,Pen,,1.72,Pending
+ORD-1572,2026-09-18,Blerta Shala,Peja,Electronics,Monitor,6,238.91,Completed
+ORD-1648,2026-09-18,Fisnik Shala,Ferizaj,Home,Desk Lamp,4,33.69,Pending
+ORD-1174,2026-10-02,Majlinda Kelmendi,Mitrovica,Office Supplies,Pen,2,1.52,Cancelled
+ORD-1007,2026-09-20,Kaltrina Krasniqi,Mitrovica,Home,Desk Lamp,2,38.87,Cancelled
+ORD-1685,2026-09-12,Majlinda Rama,Ferizaj,Home,Chair,2,,Completed
+ORD-1093,2026-09-12,Blerta Shala,Prishtina,Electronics,Keyboard,10,52.03,Pending
+ORD-1239,2026-09-18,Majlinda Krasniqi,Gjakova,Office Supplies,Pen,5,3.24,Returned
+ORD-1209,2026-09-15,Fisnik Berisha,Mitrovica,Office Supplies,Notebook,4,,Completed
+ORD-1580,,Kaltrina Shala,Ferizaj,,Mouse,3,40.63,Completed
+ORD-1744,2026-09-15,Valon Gashi,Ferizaj,Home,,5,123.35,Completed
+ORD-1158,,Luan Shala,Peja,Electronics,Keyboard,3,81.72,Completed
+ORD-1123,2026-10-02,Besa Kastrati,Ferizaj,Home,Chair,10,114.8,Returned
+ORD-1503,2026-09-28,Genta Kelmendi,Gjakova,Electronics,Keyboard,2,55.83,Completed
+ORD-1164,2026-09-10,Pranvera Rama,Ferizaj,Home,Desk Lamp,4,32.33,Pending
+ORD-1550,2026-10-02,Blerta Bytyqi,Prishtina,Home,Desk Lamp,3,43.53,Pending
+ORD-1083,2026-09-03,Luan Shala,Peja,Home,Chair,8,126.01,Pending
+ORD-1627,2026-09-28,Zana Krasniqi,Prizren,Electronics,Keyboard,7,45.88,Completed
+ORD-1182,2026-09-12,Elira Shala,Prishtina,,Notebook,9,6.41,Pending
+ORD-1197,2026-09-15,Nderim Hoxha,Mitrovica,Office Supplies,Pen,7,4.58,Returned
+ORD-1167,2026-09-12,Besa Rama,Gjakova,Office Supplies,Pen,5,3.53,Completed
+ORD-1568,2026-09-18,Nderim Rama,Prizren,Home,Chair,8,109.39,Returned
+ORD-1796,2026-09-01,Fisnik Kelmendi,Prishtina,Home,Desk Lamp,1,37.75,Cancelled
+ORD-1063,2026-09-22,Dardan Morina,Mitrovica,Electronics,Keyboard,4,66.64,Cancelled
+ORD-1192,2026-09-05,Kaltrina Krasniqi,Gjakova,Electronics,Keyboard,6,72.31,
+ORD-1592,2026-09-12,Elira Bytyqi,Gjakova,Electronics,Mouse,5,20.47,
+ORD-1716,2026-09-01,Luan Morina,Gjakova,Home,Desk Lamp,,33.6,Cancelled
+ORD-1417,2026-09-18,Ilir Berisha,Prizren,Office Supplies,Notebook,3,7.72,Completed
+ORD-1031,2026-09-22,Nderim Gashi,Prishtina,Electronics,Monitor,1,,Returned
+ORD-1454,2026-09-03,Ilir Gashi,Gjakova,Electronics,Mouse,3,36.82,Pending
+ORD-1412,2026-09-15,Dardan Kelmendi,Mitrovica,Office Supplies,Pen,5,2.96,Pending
+ORD-1559,2026-09-28,Kaltrina Shala,Prishtina,Home,Desk Lamp,5,36.92,Returned
+ORD-1704,2026-09-15,Blerta Krasniqi,Gjakova,,Desk Lamp,2,22.67,Returned
+ORD-1688,2026-10-02,,Prizren,Office Supplies,Notebook,8,3.55,Completed
+ORD-1061,2026-09-03,Blerta Berisha,Peja,Office Supplies,Notebook,5,7.12,Returned
+ORD-1691,,Ilir Rama,Prizren,Home,Chair,5,78.26,Pending
+ORD-1121,2026-09-18,Luan Bytyqi,Peja,Office Supplies,Pen,7,3.56,Pending
+ORD-1143,2026-09-15,Blerta Bytyqi,Prishtina,Office Supplies,Pen,2,2.71,Completed
+ORD-1142,2026-09-01,Majlinda Bytyqi,Ferizaj,Home,Desk Lamp,1,43.53,Completed
+ORD-1310,2026-10-02,Ilir Bytyqi,Peja,Home,Desk Lamp,8,43.73,
+ORD-1803,2026-09-03,,Gjakova,Electronics,Keyboard,9,53.48,Returned
+ORD-1331,2026-09-25,Blerta Kelmendi,Gjakova,Electronics,Monitor,8,186.39,Completed
+ORD-1323,2026-09-28,Ilir Bytyqi,Prishtina,Electronics,Monitor,6,163.0,Cancelled
+ORD-1025,2026-09-28,Zana Morina,Mitrovica,Electronics,Mouse,6,34.77,Completed
+ORD-1185,2026-10-02,Fisnik Hoxha,Prishtina,Office Supplies,Notebook,22,7.12,Completed
+ORD-1720,,,Prishtina,Home,Chair,5,136.05,Cancelled
+ORD-1516,2026-09-30,Nderim Kastrati,Ferizaj,Electronics,Mouse,8,24.53,Cancelled
+ORD-1528,2026-10-02,Kaltrina Kelmendi,Mitrovica,Home,Desk Lamp,7,31.95,Cancelled
+ORD-1312,,Blerta Kastrati,Mitrovica,Office Supplies,Pen,10,1.3,Returned
+ORD-1210,2026-09-12,Fisnik Kastrati,Prishtina,Home,Chair,9,142.77,Completed
+ORD-1674,2026-09-03,Ilir Berisha,Gjakova,Office Supplies,Pen,9,3.11,Completed
+ORD-1757,2026-09-30,Majlinda Morina,Ferizaj,Electronics,Mouse,10,36.2,Returned
+ORD-1845,2026-09-22,Elira Rama,Prizren,Electronics,Monitor,5,135.07,Completed
+ORD-1617,2026-09-28,Zana Krasniqi,Ferizaj,Home,Desk Lamp,9,33.08,Cancelled
+ORD-1397,2026-09-15,Pranvera Morina,Gjakova,Electronics,Monitor,2,317.95,Completed
+ORD-1167,2026-09-12,Besa Rama,Gjakova,Office Supplies,Pen,27,3.53,Cancelled
+ORD-1338,2026-09-03,Luan Morina,Mitrovica,Electronics,Monitor,3,210.32,Returned
+ORD-1515,2026-09-25,Fisnik Berisha,Prishtina,Home,Chair,6,212.97,Cancelled
+ORD-1337,2026-10-02,Fisnik Berisha,Prizren,Office Supplies,Notebook,3,7.96,Cancelled
+ORD-1442,2026-09-10,Genta Rama,Ferizaj,Electronics,Keyboard,5,32.68,Completed
+ORD-1520,2026-09-30,Ilir Shala,Ferizaj,Home,Desk Lamp,3,40.73,Completed
+ORD-1521,2026-09-22,Valon Kastrati,,Electronics,Mouse,1,40.49,Completed
+ORD-1679,2026-09-12,Majlinda Shala,Prishtina,Home,Desk Lamp,,18.31,Cancelled
+ORD-1525,2026-09-22,Kaltrina Gashi,Ferizaj,Office Supplies,Notebook,6,2.85,Pending
+ORD-1843,2026-09-18,Agon Rama,Mitrovica,Office Supplies,Pen,10,4.24,Completed
+ORD-1084,2026-09-12,Genta Berisha,Prizren,Home,Desk Lamp,9,26.52,Returned
+ORD-1740,2026-09-25,Elira Gashi,Prishtina,Home,Desk Lamp,5,42.64,Completed
+ORD-1589,2026-09-18,Pranvera Berisha,Mitrovica,Office Supplies,Pen,1,3.39,Returned
+ORD-1654,,Blerta Bytyqi,Prizren,Home,Chair,7,101.68,Pending
+ORD-1695,,Blerta Gashi,Prishtina,Office Supplies,Pen,1,1.2,Returned
+ORD-1810,2026-09-15,Nderim Bytyqi,Ferizaj,,Notebook,3,5.7,Pending
+ORD-1613,2026-10-02,Agon Berisha,Ferizaj,Office Supplies,Notebook,2,5.83,Returned
+ORD-1778,,Zana Shala,Ferizaj,Home,Chair,5,151.98,Pending
+ORD-1139,2026-09-15,Elira Gashi,Prizren,Electronics,Mouse,3,31.21,Completed
+ORD-1562,2026-09-03,Pranvera Hoxha,,Office Supplies,Notebook,4,3.76,Completed
+ORD-1124,2026-09-28,Kaltrina Berisha,Gjakova,Office Supplies,Notebook,6,5.84,Cancelled
+ORD-1483,2026-09-22,Elira Morina,Ferizaj,Home,Desk Lamp,3,0.0,Cancelled
+ORD-1415,2026-09-25,Zana Kelmendi,Ferizaj,Home,Desk Lamp,7,32.95,Returned
+ORD-1023,2026-09-12,Nderim Krasniqi,Gjakova,Home,Desk Lamp,1,24.18,Pending
+ORD-1625,,Dardan Rama,Mitrovica,Home,Chair,4,157.51,Pending
+ORD-1451,2026-09-22,Majlinda Hoxha,Prishtina,Home,Desk Lamp,6,24.11,Returned
+ORD-1495,2026-09-30,Luan Gashi,,Home,Chair,10,93.86,Returned
+ORD-1683,2026-08-15,Agon Berisha,Gjakova,Home,Chair,6,156.92,Cancelled
+ORD-1028,2026-09-18,Agon Krasniqi,,Home,Desk Lamp,9,19.37,Pending
+ORD-1217,2026-09-20,Blerta Kelmendi,Peja,Electronics,Monitor,1,215.81,Cancelled
+ORD-1252,2026-09-30,Agon Shala,,Office Supplies,Pen,10,2.21,Cancelled
+ORD-1522,2026-09-05,Pranvera Morina,Prizren,Office Supplies,Pen,,3.62,Cancelled
+ORD-1607,2026-09-20,Genta Krasniqi,Gjakova,Office Supplies,Pen,5,3.93,Pending
+ORD-1138,,Nderim Hoxha,Gjakova,Home,Desk Lamp,15,33.83,Cancelled
+ORD-1769,2026-09-18,Fisnik Krasniqi,Mitrovica,Electronics,Monitor,5,,Returned
+ORD-1254,2026-09-05,Pranvera Kastrati,Prizren,Electronics,Monitor,5,330.71,Pending
+ORD-1090,2026-09-20,Kaltrina Kelmendi,Mitrovica,Electronics,Mouse,7,31.74,Returned
+ORD-1038,2026-09-30,Fisnik Shala,Prishtina,Home,Chair,2,210.1,Completed
+ORD-1723,2026-09-25,Agon Krasniqi,Gjakova,Electronics,Monitor,5,184.62,
+ORD-1658,2026-09-30,Kaltrina Kelmendi,Gjakova,Electronics,Keyboard,1,52.41,Returned
+ORD-1762,2026-09-18,Besa Rama,Peja,Electronics,Mouse,1,,Pending
+ORD-1422,2026-09-30,Valon Gashi,Mitrovica,Electronics,Keyboard,10,49.18,Cancelled
+ORD-1373,2026-09-05,Kaltrina Morina,Mitrovica,Home,Chair,9,90.07,Completed
+ORD-1242,2026-09-28,Kaltrina Gashi,Ferizaj,Electronics,Monitor,4,290.4,Pending
+ORD-1298,2026-09-30,Dardan Shala,Prizren,,Chair,2,190.72,Returned
+ORD-1788,2026-09-20,Nderim Rama,Mitrovica,Electronics,Monitor,7,268.27,Returned
+ORD-1395,2026-08-15,Agon Rama,Gjakova,Home,Desk Lamp,8,18.54,Pending
+ORD-1576,2026-09-20,Dardan Morina,Gjakova,Home,Chair,8,187.34,Cancelled
+ORD-1466,,Valon Bytyqi,Mitrovica,Office Supplies,Pen,5,4.85,Pending
+ORD-1042,2026-09-18,Besa Rama,Gjakova,,Mouse,3,17.26,Pending
+ORD-1343,,Zana Berisha,Ferizaj,Electronics,Mouse,1,28.24,Pending
+ORD-1809,2026-10-02,Pranvera Kelmendi,Ferizaj,Office Supplies,Pen,2,4.9,Completed
+ORD-1661,2026-09-18,Elira Hoxha,Gjakova,Home,Chair,9,88.11,Pending
+ORD-1753,,Nderim Krasniqi,Ferizaj,Electronics,Keyboard,7,45.24,In Progress
+ORD-1113,2026-09-15,Fisnik Krasniqi,Mitrovica,Office Supplies,Notebook,7,6.47,Cancelled
+ORD-1591,2026-09-18,Luan Shala,Ferizaj,Home,Desk Lamp,10,31.95,Cancelled
+ORD-1171,2026-09-15,Arben Kelmendi,Gjakova,Home,Desk Lamp,8,19.06,Pending
+ORD-1487,2026-08-15,Zana Kelmendi,Peja,Electronics,Keyboard,10,58.74,Returned
+ORD-1464,2026-09-15,Agon Hoxha,Ferizaj,Home,Desk Lamp,1,20.56,Pending
+ORD-1153,2026-09-18,Fisnik Gashi,Prishtina,Electronics,Monitor,2,271.19,Pending
+ORD-1062,2026-09-05,Nderim Kelmendi,,Home,Chair,6,109.0,Pending
+ORD-1035,2026-09-20,Arben Rama,Prishtina,Office Supplies,Pen,5,1.52,Completed
+ORD-1585,2026-09-28,Genta Kastrati,Gjakova,Office Supplies,Notebook,9,7.83,Returned
+ORD-1624,2026-09-03,Kaltrina Berisha,Peja,Electronics,Mouse,10,22.95,Cancelled
+ORD-1530,2026-09-15,Ilir Hoxha,Prizren,Electronics,Mouse,5,30.44,Pending
+ORD-1382,2026-10-02,Fisnik Krasniqi,Prishtina,Home,Desk Lamp,2,20.56,
+ORD-1532,2026-09-25,Agon Berisha,Prishtina,Electronics,Monitor,7,157.09,Pending
+ORD-1305,2026-09-01,Arben Krasniqi,,Home,Chair,4,161.1,Cancelled
+ORD-1377,2026-09-03,Fisnik Kastrati,Prishtina,Office Supplies,Pen,4,1.93,Pending
+ORD-1069,2026-09-20,Luan Morina,Peja,Electronics,,7,44.61,Completed
+ORD-1567,2026-09-05,Nderim Rama,Gjakova,Home,Desk Lamp,2,28.24,Cancelled
+ORD-1414,2026-08-15,Dardan Rama,Gjakova,Office Supplies,Notebook,2,3.33,Returned
+ORD-1240,2026-09-30,Dardan Rama,Mitrovica,Office Supplies,Notebook,5,4.1,Cancelled
+ORD-1814,2026-09-05,Pranvera Bytyqi,Mitrovica,Electronics,Mouse,5,19.11,Cancelled
+ORD-1135,2026-09-01,Elira Rama,,Office Supplies,Pen,6,4.8,Cancelled
+ORD-1738,2026-09-03,Luan Shala,Prizren,Electronics,Keyboard,1,48.32,Returned
+ORD-1425,2026-10-02,Dardan Berisha,Mitrovica,,Pen,0,3.92,Pending
+ORD-1263,2026-09-22,Fisnik Rama,Prishtina,Electronics,Monitor,9,341.75,Pending
+ORD-1426,2026-09-12,Besa Kelmendi,Prizren,,Pen,6,4.04,Completed
+ORD-1360,2026-09-03,Besa Berisha,Prishtina,Home,Chair,4,180.84,Returned
+ORD-1668,2026-09-25,,Mitrovica,Office Supplies,Notebook,8,3.69,Completed
+ORD-1463,2026-09-18,Besa Shala,Peja,Office Supplies,Notebook,3,3.05,Cancelled
+ORD-1556,2026-08-15,Luan Bytyqi,Mitrovica,Electronics,Monitor,9,340.04,Returned
+ORD-1085,2026-09-12,Majlinda Berisha,Peja,Home,Chair,4,217.17,Pending
+ORD-1385,2026-09-18,Zana Morina,Mitrovica,Electronics,Keyboard,10,0.0,Completed
+ORD-1406,2026-09-15,,Gjakova,Electronics,Mouse,7,25.25,Completed
+ORD-1053,2026-09-12,Majlinda Morina,Gjakova,Office Supplies,Pen,3,3.71,Completed
+ORD-1469,2026-09-01,Besa Krasniqi,Peja,Office Supplies,Notebook,8,7.38,Cancelled
+ORD-1218,2026-09-18,Dardan Gashi,Prizren,Electronics,Monitor,8,213.4,
+ORD-1824,2026-09-15,Agon Krasniqi,Prizren,Electronics,Keyboard,9,35.31,Returned
+ORD-1703,2026-09-22,Zana Morina,Gjakova,Office Supplies,Notebook,10,4.37,Cancelled
+ORD-1813,2026-10-02,Elira Kelmendi,Gjakova,Office Supplies,Pen,6,2.09,Cancelled
+ORD-1518,2026-09-20,Luan Rama,Prizren,Electronics,Mouse,7,36.37,Cancelled
+ORD-1467,2026-08-15,Elira Morina,Gjakova,Electronics,Monitor,3,287.07,Returned
+ORD-1228,2026-09-01,Valon Kelmendi,Prishtina,Office Supplies,Pen,4,4.02,Completed
+ORD-1750,2026-09-30,Blerta Kastrati,Prishtina,Electronics,Monitor,1,152.57,Pending
+ORD-1097,2026-09-03,Nderim Kastrati,Peja,Electronics,Monitor,7,129.17,Completed
+ORD-1842,2026-09-05,Nderim Gashi,Prishtina,Office Supplies,Pen,5,4.07,Completed
+ORD-1651,2026-08-15,Elira Hoxha,Prizren,Home,Chair,4,97.03,
+ORD-1664,2026-09-01,,Gjakova,Office Supplies,Notebook,7,5.38,Returned
+ORD-1501,2026-09-01,Valon Shala,Gjakova,Home,Chair,2,,Cancelled
+ORD-1313,2026-09-05,Dardan Krasniqi,Prizren,Electronics,Keyboard,9,67.1,Cancelled
+ORD-1052,,Valon Shala,Gjakova,Office Supplies,,6,3.67,Pending
+ORD-1438,2026-09-30,Valon Rama,Ferizaj,Electronics,Monitor,1,296.06,Pending
+ORD-1689,2026-09-01,Arben Morina,Ferizaj,Home,Desk Lamp,1,23.54,Completed
+ORD-1269,2026-09-18,Kaltrina Shala,Prizren,Home,Chair,6,158.73,Pending
+ORD-1768,2026-09-05,Pranvera Shala,Prizren,Office Supplies,Notebook,4,5.02,Cancelled
+ORD-1547,2026-09-05,Valon Rama,Gjakova,Home,Desk Lamp,9,20.71,Completed
+ORD-1811,2026-09-22,Pranvera Gashi,Peja,,Mouse,7,23.18,Cancelled
+ORD-1226,2026-08-15,Dardan Morina,Gjakova,Home,Desk Lamp,5,27.79,Returned
+ORD-1596,2026-09-10,Dardan Kelmendi,Mitrovica,Electronics,Mouse,7,16.68,Pending
+ORD-1034,2026-09-10,Nderim Shala,Prizren,Electronics,Keyboard,10,64.44,Cancelled
+ORD-1017,2026-09-22,,Peja,Electronics,Monitor,5,329.9,Pending
+ORD-1618,2026-09-28,,Mitrovica,Office Supplies,Pen,3,,Cancelled
+ORD-1605,2026-09-20,Pranvera Hoxha,Peja,Office Supplies,Notebook,7,2.62,Completed
+ORD-1090,2026-09-20,Kaltrina Kelmendi,Mitrovica,Electronics,Mouse,21,31.74,Cancelled
+ORD-1241,2026-09-05,Luan Kelmendi,Ferizaj,Office Supplies,Notebook,9,3.61,Cancelled
+ORD-1286,2026-09-22,Luan Kelmendi,,Home,Chair,9,76.72,Completed
+ORD-1094,2026-09-18,Dardan Berisha,Peja,Home,Chair,8,176.93,Pending
+ORD-1179,2026-09-12,Majlinda Bytyqi,,Home,Desk Lamp,10,44.18,Pending
+ORD-1275,2026-09-20,Besa Krasniqi,Prizren,Office Supplies,Pen,10,3.69,Pending
+ORD-1494,2026-09-12,Elira Morina,Prishtina,Home,Desk Lamp,3,23.05,Returned
+ORD-1321,2026-09-20,Valon Gashi,Ferizaj,Electronics,Mouse,7,34.21,Pending
+ORD-1641,2026-09-10,Elira Gashi,Peja,Office Supplies,Pen,6,3.65,Returned
+ORD-1346,2026-09-01,Fisnik Kastrati,Prizren,Electronics,Mouse,2,21.4,Returned
+ORD-1513,2026-10-02,Ilir Krasniqi,Prizren,Electronics,Mouse,5,,Completed
+ORD-1233,2026-09-01,Valon Hoxha,Ferizaj,Electronics,Monitor,9,230.5,
+ORD-1348,2026-09-05,Elira Rama,Peja,Office Supplies,Notebook,2,6.52,Cancelled
+ORD-1610,2026-09-03,Majlinda Rama,Mitrovica,Home,Chair,3,186.03,Cancelled
+ORD-1004,2026-09-03,Luan Hoxha,Prizren,Electronics,Mouse,6,35.94,Cancelled
+ORD-1840,2026-09-28,Valon Bytyqi,Prishtina,Electronics,Keyboard,5,50.84,Returned
+ORD-1669,2026-09-01,Luan Kastrati,Ferizaj,Home,Desk Lamp,9,24.61,Pending
+ORD-1065,2026-09-20,Majlinda Morina,Mitrovica,Home,Chair,6,144.16,Pending
+ORD-1273,2026-09-15,Valon Berisha,,Office Supplies,Pen,3,3.23,Pending
+ORD-1724,2026-09-20,Genta Shala,Ferizaj,Home,Desk Lamp,6,,
+ORD-1445,2026-09-05,Majlinda Morina,Prishtina,Electronics,Monitor,7,147.56,Pending
+ORD-1529,2026-09-05,Agon Kelmendi,Prizren,Office Supplies,Pen,10,4.17,Returned
+ORD-1844,2026-09-25,Kaltrina Berisha,Prizren,Office Supplies,Pen,1,2.65,Cancelled
+ORD-1479,2026-09-25,Fisnik Morina,Prishtina,Electronics,Mouse,8,41.91,Cancelled
+ORD-1705,2026-09-28,Majlinda Morina,Prishtina,Home,Desk Lamp,3,,Completed
+ORD-1351,2026-09-15,Elira Kastrati,Ferizaj,Electronics,Mouse,22,41.9,Cancelled
+ORD-1777,2026-09-18,Arben Gashi,Ferizaj,Home,Chair,,101.82,Completed
+ORD-1582,2026-09-12,Fisnik Krasniqi,Ferizaj,Office Supplies,Notebook,10,3.07,Returned
+ORD-1573,2026-09-20,Luan Bytyqi,Ferizaj,Electronics,Monitor,4,,Completed
+ORD-1420,2026-08-15,Elira Krasniqi,Gjakova,Office Supplies,Notebook,22,,Cancelled
+ORD-1830,2026-09-30,,Mitrovica,Electronics,Keyboard,2,51.28,Returned
+ORD-1388,2026-09-18,Ilir Kelmendi,Prizren,Electronics,Keyboard,7,,Completed
+ORD-1231,2026-09-18,Pranvera Rama,,Home,Chair,1,143.86,Completed
+ORD-1379,2026-10-02,Dardan Hoxha,Ferizaj,Office Supplies,Pen,2,2.06,Cancelled
+ORD-1549,2026-09-30,Besa Morina,Mitrovica,Office Supplies,Notebook,10,4.54,Cancelled
+ORD-1301,2026-10-02,Pranvera Kelmendi,Prishtina,Home,Chair,2,89.98,Cancelled
+ORD-1368,2026-09-18,Genta Berisha,Gjakova,Office Supplies,Notebook,1,5.26,Completed
+ORD-1170,2026-09-22,Arben Krasniqi,Peja,Home,Chair,1,147.7,Completed
+ORD-1584,2026-09-22,Blerta Bytyqi,Gjakova,Electronics,Monitor,6,202.07,Cancelled
+ORD-1460,2026-09-15,Blerta Berisha,Ferizaj,Home,Chair,1,117.83,Returned
+ORD-1262,2026-09-18,Pranvera Morina,Mitrovica,Electronics,Mouse,7,37.97,Returned
+ORD-1826,2026-09-20,Elira Bytyqi,,Home,Desk Lamp,6,29.0,Pending
+ORD-1514,2026-09-10,Majlinda Krasniqi,Peja,Home,Chair,2,168.48,Completed
+ORD-1820,2026-09-01,Besa Bytyqi,Prishtina,Electronics,Mouse,9,15.98,Cancelled
+ORD-1344,2026-09-15,Dardan Rama,Peja,Office Supplies,Notebook,5,7.31,Completed
+ORD-1797,2026-09-25,Nderim Gashi,Gjakova,Office Supplies,Notebook,2,4.95,Pending
+ORD-1354,2026-09-20,Blerta Morina,Prishtina,Office Supplies,Pen,4,3.58,Pending
+ORD-1276,2026-09-30,Ilir Berisha,Ferizaj,Electronics,Keyboard,1,43.19,Completed
+ORD-1773,2026-09-20,Besa Morina,Gjakova,Electronics,Mouse,9,44.74,
+ORD-1776,2026-10-02,Agon Bytyqi,Mitrovica,Home,,10,199.4,Pending
+ORD-1509,2026-09-20,Arben Morina,Mitrovica,Home,Chair,5,162.95,Completed
+ORD-1080,2026-09-20,Ilir Krasniqi,Prizren,Office Supplies,Pen,9,3.22,Returned
+ORD-1770,2026-09-03,Genta Kastrati,Prizren,Electronics,Keyboard,5,38.19,Pending
+ORD-1274,2026-09-01,Dardan Kelmendi,,Home,Desk Lamp,6,42.9,Pending
+ORD-1316,2026-09-03,Blerta Krasniqi,Peja,Home,Desk Lamp,1,27.31,Returned
+ORD-1225,2026-09-25,Pranvera Gashi,Mitrovica,Electronics,Keyboard,7,68.65,Completed
+ORD-1574,2026-09-03,Luan Rama,Prishtina,Home,Chair,6,112.67,Returned
+ORD-1294,2026-08-15,Nderim Morina,Ferizaj,Home,Desk Lamp,7,33.3,Pending
+ORD-1173,2026-09-15,Fisnik Rama,Prishtina,Home,Chair,10,116.2,Pending
+ORD-1043,2026-09-28,Pranvera Berisha,Ferizaj,,Mouse,1,24.25,Pending
+ORD-1188,2026-09-25,Arben Krasniqi,,Electronics,Mouse,10,22.15,Returned
+ORD-1715,2026-09-18,Valon Rama,Prizren,Home,Chair,,155.05,Pending
+ORD-1831,2026-09-10,Dardan Rama,Prizren,Home,Desk Lamp,3,38.02,Cancelled
+ORD-1177,2026-09-25,Besa Rama,Gjakova,Electronics,Mouse,2,23.87,Pending
+ORD-1194,2026-08-15,Besa Shala,Prizren,Electronics,Mouse,8,36.48,Completed
+ORD-1579,2026-09-18,Pranvera Kastrati,Gjakova,Office Supplies,,8,2.08,Returned
+ORD-1631,2026-08-15,Dardan Morina,Gjakova,Home,Desk Lamp,5,,Returned
+ORD-1635,,Arben Kastrati,Prizren,Office Supplies,Notebook,10,7.93,
+ORD-1507,2026-09-22,Nderim Gashi,Mitrovica,Office Supplies,Pen,7,3.52,Completed
+ORD-1089,2026-09-03,Fisnik Hoxha,Gjakova,Office Supplies,Notebook,1,,Cancelled
+ORD-1021,2026-09-03,Pranvera Bytyqi,Gjakova,Home,Desk Lamp,7,37.25,Returned
+ORD-1452,2026-09-18,Majlinda Shala,Mitrovica,Home,Chair,1,99.22,Cancelled
+ORD-1564,2026-09-01,Luan Morina,Prizren,Home,Chair,,146.17,Pending
+ORD-1524,2026-09-10,Fisnik Bytyqi,Peja,Home,Desk Lamp,3,30.05,Completed
+ORD-1103,2026-09-12,Blerta Bytyqi,Prishtina,Electronics,Mouse,10,30.55,Pending
+ORD-1349,2026-09-25,Dardan Kelmendi,Gjakova,Office Supplies,Notebook,3,6.03,
+ORD-1336,2026-09-05,Majlinda Kastrati,Peja,Office Supplies,Notebook,5,4.28,Completed
+ORD-1485,2026-09-10,Majlinda Kelmendi,Peja,Electronics,Mouse,9,27.38,Pending
+ORD-1072,2026-08-15,Luan Rama,Prizren,Electronics,Monitor,8,337.98,Completed
+ORD-1439,2026-09-30,Luan Morina,Mitrovica,Electronics,Monitor,5,234.4,Returned
+ORD-1285,2026-09-22,Blerta Bytyqi,Prishtina,Electronics,Monitor,10,,Completed
+ORD-1047,2026-08-15,Valon Rama,Peja,Office Supplies,Notebook,4,,Completed
+ORD-1639,,Valon Kastrati,Ferizaj,Office Supplies,Notebook,1,6.32,Completed
+ORD-1185,2026-10-02,Fisnik Hoxha,Prishtina,Office Supplies,Notebook,6,7.12,Cancelled
+ORD-1300,2026-09-20,Fisnik Krasniqi,Prizren,Office Supplies,Pen,2,4.05,Returned
+ORD-1619,2026-10-02,Pranvera Rama,Gjakova,Electronics,Monitor,8,349.64,Cancelled
+ORD-1258,2026-08-15,Blerta Krasniqi,Gjakova,Office Supplies,Pen,4,1.46,Returned
+ORD-1214,2026-09-28,,Peja,Home,,5,,Pending
+ORD-1710,2026-09-10,Pranvera Krasniqi,Peja,Home,Desk Lamp,,18.02,Completed
+ORD-1433,2026-09-12,Genta Kastrati,Prishtina,Home,,3,30.8,
+ORD-1033,2026-09-25,Kaltrina Kastrati,Gjakova,Electronics,Keyboard,10,32.19,Completed
+ORD-1771,2026-09-30,Blerta Bytyqi,,Office Supplies,Pen,4,4.45,Completed
+ORD-1431,2026-10-02,Besa Hoxha,Gjakova,Home,Desk Lamp,7,25.7,Pending
+ORD-1489,2026-09-10,Fisnik Gashi,Ferizaj,Office Supplies,Notebook,5,7.91,Cancelled
+ORD-1371,2026-09-10,Fisnik Gashi,Mitrovica,Electronics,Monitor,4,327.1,Completed
+ORD-1536,2026-09-20,Luan Hoxha,Ferizaj,Home,Desk Lamp,9,34.83,Cancelled
+ORD-1398,2026-09-05,Zana Bytyqi,Ferizaj,Office Supplies,Pen,3,1.55,Cancelled
+ORD-1850,2026-09-12,Dardan Kastrati,Prishtina,Home,Chair,10,191.67,Cancelled
+ORD-1482,2026-09-30,Zana Kastrati,Mitrovica,Electronics,Monitor,5,289.33,Pending
+ORD-1476,2026-10-02,Ilir Bytyqi,Peja,Electronics,Monitor,5,341.53,Cancelled
+ORD-1183,2026-09-18,Kaltrina Bytyqi,Peja,,Notebook,5,7.07,Completed
+ORD-1471,2026-09-22,Besa Gashi,Ferizaj,Office Supplies,Pen,9,1.59,Pending
+ORD-1202,2026-08-15,Besa Hoxha,Prishtina,Electronics,Monitor,8,275.96,Pending
+ORD-1409,2026-09-05,Valon Kastrati,Gjakova,Office Supplies,Pen,17,1.95,Cancelled
+ORD-1120,2026-09-20,Majlinda Kelmendi,Prizren,Office Supplies,Notebook,8,7.44,Completed
+ORD-1295,2026-10-02,Besa Krasniqi,Mitrovica,Home,Desk Lamp,6,,Pending
+ORD-1283,2026-10-02,Besa Gashi,Mitrovica,Home,Desk Lamp,2,32.15,Pending
+ORD-1358,2026-09-03,Fisnik Shala,Prishtina,Home,Chair,9,86.95,Cancelled
+ORD-1399,2026-09-05,Genta Morina,Peja,Home,Chair,10,107.37,Cancelled
+ORD-1102,2026-09-18,Valon Kelmendi,Prishtina,Electronics,Keyboard,2,40.14,Returned
+ORD-1733,2026-09-30,Elira Bytyqi,Peja,Electronics,Mouse,9,27.34,Pending
+ORD-1141,2026-09-20,Pranvera Kelmendi,Gjakova,Electronics,Monitor,8,134.62,Completed
+ORD-1307,2026-09-18,Ilir Bytyqi,Peja,Home,Desk Lamp,10,26.11,Pending
+ORD-1446,2026-08-15,Arben Hoxha,Peja,Electronics,Keyboard,10,49.55,Pending
+ORD-1096,2026-09-20,Majlinda Morina,Peja,Office Supplies,Pen,8,2.76,Returned
+ORD-1730,2026-09-15,Pranvera Morina,Gjakova,Office Supplies,Notebook,9,3.04,Cancelled
+ORD-1290,2026-09-03,Besa Gashi,Ferizaj,Office Supplies,Pen,8,2.51,Pending
+ORD-1266,2026-09-10,Zana Kastrati,Prishtina,Electronics,Monitor,1,296.06,Pending
+ORD-1633,2026-09-03,Zana Rama,,Home,Desk Lamp,5,24.54,Completed
+ORD-1659,2026-09-12,Ilir Shala,Mitrovica,Electronics,Monitor,1,209.1,Returned
+ORD-1013,2026-09-03,Pranvera Berisha,Prizren,Home,Chair,7,205.18,Returned
+ORD-1118,2026-09-25,Genta Hoxha,Prishtina,Home,Chair,3,157.06,
+ORD-1421,2026-09-01,Valon Bytyqi,Gjakova,Office Supplies,Pen,5,4.51,Returned
+ORD-1806,2026-09-12,Kaltrina Gashi,Prishtina,,Pen,8,2.98,Pending
+ORD-1203,2026-09-15,Besa Kastrati,Prizren,Home,Chair,10,127.51,Returned
+ORD-1211,2026-09-20,,Peja,Office Supplies,Pen,7,3.1,Completed
+ORD-1269,2026-09-18,Kaltrina Shala,Prizren,Home,Chair,17,158.73,Cancelled
+ORD-1690,2026-09-03,Dardan Rama,Mitrovica,Office Supplies,Notebook,,6.28,Completed
+ORD-1229,2026-09-15,Arben Hoxha,Gjakova,Electronics,Monitor,8,196.6,Pending
+ORD-1151,2026-09-25,Kaltrina Morina,Gjakova,Home,Chair,5,91.66,Completed
+ORD-1595,2026-09-15,Blerta Rama,Mitrovica,Office Supplies,Notebook,19,4.38,Cancelled
+ORD-1436,,Majlinda Shala,Ferizaj,Home,Chair,10,156.41,Completed
+ORD-1846,2026-09-25,Zana Shala,Prishtina,Office Supplies,Notebook,7,5.04,Returned
+ORD-1456,2026-09-20,Arben Morina,Prishtina,Electronics,Mouse,7,35.69,Cancelled
+ORD-1434,2026-09-12,Zana Morina,Peja,Home,Chair,5,178.35,Returned
+ORD-1278,2026-09-20,Majlinda Shala,Peja,Office Supplies,Pen,6,2.87,
+ORD-1205,2026-09-22,Agon Hoxha,Mitrovica,Home,Chair,2,111.19,Returned
+ORD-1178,2026-09-15,Genta Bytyqi,Prishtina,Office Supplies,Notebook,10,3.39,Returned
+ORD-1475,2026-10-02,Besa Kelmendi,Gjakova,Home,Desk Lamp,7,20.77,Completed
+ORD-1234,2026-09-30,Nderim Morina,Prizren,Home,Desk Lamp,8,23.15,Returned
+ORD-1334,2026-10-02,,Ferizaj,Electronics,Keyboard,2,76.92,Cancelled
+ORD-1587,2026-09-01,Luan Hoxha,Peja,Electronics,Keyboard,7,43.47,Completed
+ORD-1016,2026-09-22,Genta Bytyqi,Prishtina,Home,Chair,7,91.18,Cancelled
+ORD-1011,2026-09-18,Nderim Berisha,Ferizaj,Electronics,Mouse,10,42.39,Returned
+ORD-1363,2026-09-12,Nderim Morina,Peja,Office Supplies,Notebook,1,,Completed
+ORD-1731,2026-09-30,Valon Bytyqi,Ferizaj,Office Supplies,Pen,5,4.21,Pending
+ORD-1539,2026-09-15,Agon Morina,Gjakova,Home,Desk Lamp,3,20.52,Returned
+ORD-1726,2026-09-01,Arben Hoxha,Prizren,Office Supplies,,4,4.08,Cancelled
+ORD-1224,2026-09-18,Majlinda Kelmendi,Prishtina,Electronics,Keyboard,8,54.69,Completed
+ORD-1289,2026-09-03,Majlinda Krasniqi,Ferizaj,Office Supplies,Notebook,4,7.95,Completed
+ORD-1401,2026-09-10,Blerta Hoxha,Peja,Office Supplies,Notebook,2,6.02,Completed
+ORD-1133,2026-09-18,Zana Kastrati,Ferizaj,Home,Desk Lamp,6,28.49,Pending
+ORD-1447,2026-09-12,Nderim Gashi,Prishtina,Electronics,Keyboard,3,44.96,Returned
+ORD-1486,2026-09-30,Fisnik Hoxha,Gjakova,Electronics,Monitor,6,284.31,Cancelled
+ORD-1057,,Ilir Morina,Mitrovica,Home,,10,30.3,Returned
+ORD-1429,2026-09-25,Agon Berisha,Peja,Office Supplies,Pen,2,3.54,Returned
+ORD-1767,2026-09-18,Ilir Kastrati,Mitrovica,Office Supplies,Notebook,3,7.4,Pending
+ORD-1702,2026-09-20,Kaltrina Kastrati,Prizren,Office Supplies,Pen,0,2.6,Pending
+ORD-1114,2026-10-02,Valon Rama,Ferizaj,Home,Chair,,169.23,Returned
+ORD-1848,2026-09-15,Nderim Hoxha,Gjakova,Home,Desk Lamp,26,27.07,Completed
+ORD-1288,2026-09-18,,Prishtina,Electronics,Monitor,6,241.08,Cancelled
+ORD-1410,2026-09-03,Majlinda Kastrati,Mitrovica,Electronics,Keyboard,2,25.23,In Progress
+ORD-1329,2026-09-18,Blerta Morina,Ferizaj,Electronics,Keyboard,9,82.83,Returned
+ORD-1039,,Ilir Rama,Prizren,Home,Desk Lamp,10,25.35,Cancelled
+ORD-1675,2026-09-12,Majlinda Morina,Gjakova,Home,Desk Lamp,10,31.06,Cancelled
+ORD-1498,2026-09-10,Valon Krasniqi,Peja,Home,Desk Lamp,9,,Pending
+ORD-1473,2026-09-20,Valon Berisha,,Electronics,Monitor,7,171.22,Returned
+ORD-1148,2026-09-28,Besa Kastrati,Gjakova,Home,Chair,9,192.71,Cancelled
+ORD-1542,2026-09-28,Elira Kelmendi,Prishtina,Electronics,Mouse,1,36.27,Returned
+ORD-1022,2026-09-03,,Prizren,Electronics,Mouse,1,16.92,Completed
+ORD-1430,2026-09-30,Pranvera Rama,Prizren,Office Supplies,Notebook,,7.78,Cancelled
+ORD-1048,2026-09-05,Nderim Gashi,Prishtina,Office Supplies,Pen,7,3.57,Cancelled
+ORD-1712,2026-09-12,Valon Rama,,Electronics,Keyboard,9,33.34,Pending
